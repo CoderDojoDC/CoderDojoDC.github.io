@@ -1,0 +1,27 @@
+body {
+	color: #424242;
+	background-color: #d1d2d1;
+}
+
+@media (min-width: 768px) {
+	.container {
+		max-width: 730px;
+	}
+}
+
+span.time {
+	color: #ADADAD;
+	margin-bottom: 5px;
+	font-size: 11px;
+}
+
+.nav-bar {
+	margin-top: 100px;
+	font-size: 11px;
+	color: #666;
+}
+
+.nav-link {
+	margin-top: 10px;
+	color: #8C8C8C;
+}

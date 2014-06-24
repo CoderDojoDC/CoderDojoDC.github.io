@@ -1,0 +1,10 @@
+name: CoderDojoDC
+markdown: kramdown
+pygments: true
+github: https://www.github.com/wfreeman
+about: The Washington, D.C. area's free and open programming club for kids, 9-17.
+urls:
+  - text: about
+    url: http://wfreeman.github.io/about/
+  - text: faq
+    url: http://wfreeman.github.io/faq
