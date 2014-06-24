@@ -1,4 +1,5 @@
 ---
+title: 'Meetings'
 layout: default
 ---
 # All Meetings
@@ -15,7 +16,7 @@ Google Calendar of meetings: [http://CoderDojoDC.com/calendar](http://CoderDojoD
 [April 13, 2013: mapping data](https://docs.google.com/document/d/1kEALzkutwp5G_ZXc3GqdegBPlSSPPCU6e2ADGARkD6s/edit?usp=sharing)  
 [April 27, 2013: Python](https://docs.google.com/document/d/18o5ZKUEDyPwnH_jTIomuYtrDcGQuXwIVWiUVT_6IOKA/edit)  
 [May 11, 2013: More Python!](https://docs.google.com/document/d/1hrEUYrNOob_2XCe1p9QBSpbIVbxFb7gJ3MhB0MFRLpw/edit?usp=sharing)  
-[May 25, 2013: Robotics](https://docs.google.com/document/d/1Cfg3ORWGFHnBDTn9MmHaIB32-bVxks9brLIGQdlBudY/edit#) with the Richard Montgomery Robotics Club!](http://rmrobotics.weebly.com/)  
+[May 25, 2013: Robotics](https://docs.google.com/document/d/1Cfg3ORWGFHnBDTn9MmHaIB32-bVxks9brLIGQdlBudY/edit#) with the [Richard Montgomery Robotics Club!](http://rmrobotics.weebly.com/)  
 [June 8, 2013: MineCraft Party and planning for future meetings…](https://docs.google.com/document/d/1EXsDhhEW51rWUUf_Wr0EvvWBPWPWs-lAcy5qqmI0iJg/edit?usp=sharing)  
 [January 5, 2014 2-4 PM: Note the new day & time!](https://docs.google.com/document/d/1YvKKVbQmdvnV6nxnsI5Ptkvy7zfba3GANU3aQKTON2k/edit)  
 [January 19, 2014 2-4 PM](https://docs.google.com/document/d/1DOwrTJGXMblQ5LTR5zyWJuwwKcwFj2hTxb46zlAtVbU/edit)  
