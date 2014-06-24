@@ -31,3 +31,7 @@ span.time {
 a {
 	color: #777;
 }
+
+a:hover {
+	color: #777;
+}
