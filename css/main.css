@@ -12,7 +12,7 @@ body {
 span.time {
 	color: #ADADAD;
 	margin-bottom: 5px;
-	font-size: 11px;
+	font-size: 12px;
 }
 
 .nav-bar {
@@ -22,6 +22,12 @@ span.time {
 }
 
 .nav-link {
-	margin-top: 10px;
-	color: #8C8C8C;
+	padding-top: 12px;
+	color: #777;
+	border-top: 1px solid #444;
+	display:block;
+}
+
+a {
+	color: #777;
 }
