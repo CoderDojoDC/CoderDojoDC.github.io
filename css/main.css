@@ -9,6 +9,11 @@ body {
 	}
 }
 
+#header-logo {
+	text-align:center;
+	display:block;
+}
+
 span.time {
 	color: #ADADAD;
 	margin-bottom: 5px;
