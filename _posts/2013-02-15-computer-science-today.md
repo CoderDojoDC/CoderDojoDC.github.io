@@ -7,3 +7,4 @@ tags:
 - education
 tumblr_url: http://coderdojodc.com/post/43144481558/computer-science-today
 ---
+![computer science section](/assets/computer-science-books.jpg)
