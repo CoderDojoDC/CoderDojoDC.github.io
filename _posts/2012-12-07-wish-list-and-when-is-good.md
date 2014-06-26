@@ -13,5 +13,4 @@ The CoderDojo format is pretty firm about keeping things low-stress by not intro
 
 Second, while most folks have suggested alternate Saturday mornings might work best for CoderDojoDC, a few folks have mentioned preferring other times.  We figured we ought to take a quick poll: [http://whenisgood.net/CoderDojoDC](http://whenisgood.net/CoderDojoDC)  …just paint in the hours that work for you (twice a month) and, if you like, enter your name and any comments before hitting Send Response.
 
- 
-P.S. If you have an old Dell or other laptop sitting around, we’re happy to take it off your hands, put Ubuntu on it, and keep it in the trunk for use by any kids who don’t show up with their own machine!
+ P.S. If you have an old Dell or other laptop sitting around, we’re happy to take it off your hands, put Ubuntu on it, and keep it in the trunk for use by any kids who don’t show up with their own machine!
