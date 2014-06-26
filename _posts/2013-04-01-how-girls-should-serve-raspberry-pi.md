@@ -12,7 +12,6 @@ tumblr_url: http://coderdojodc.com/post/46841246384/how-girls-should-serve-raspb
 <iframe src="//www.youtube.com/embed/0zJyTY9DMYE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-Thanks to [@philshapiro](https://twitter.com/philshapiro for pointing out:
+Thanks to [@philshapiro](https://twitter.com/philshapiro) for pointing out:
 
 "He and a group of his 13-year-old pupils have just given a TEDx talk called How Girls Should Serve Raspberry Pi. The girls here are presenting the projects they’ve made with Raspberry Pi over this semester, but there’s another important message here: we know that STEM subjects are not just for boys, but we should recognise that not all girls are the same, so our teaching approach is doomed if we decide that the only way to get girls into engineering subjects is to “shrink it and pink it”."
