@@ -13,6 +13,6 @@ December 16, 2013 UPDATE: Meetup has pulled our Meetup group - we are working ou
 
 Join us at the Silver Spring Civic Building as we learn, code and share our projects. Our current agenda can be found at [http://coderdojodc.com/next](http://coderdojodc.com/next)
 
-![screenshot](/assets/2014-12-13-meetup-screenshot.png)
+![screenshot](/assets/2013-12-13-meetup-screenshot.png)
 
 The Silver Spring Civic Building is located near the intersection of Fenton Street and Ellsworth Drive in downtown Silver Spring. Nearby parking garages provide plenty of free parking. Depending on the week, we may be located in different rooms inside the Civic Building. If you do not see us, someone is usually at the front desk who can help. 
