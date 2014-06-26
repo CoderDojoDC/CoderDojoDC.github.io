@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Eben Upton Brings PI to PyCon'
 date: '2013-03-18T08:32:31-04:00'
 tags:
 - RasberryPi
@@ -9,3 +9,7 @@ tags:
 tumblr_url: http://coderdojodc.com/post/45669034623/eben-upton-brings-pi-to-pycon
 ---
 Eben Upton Brings “PI” to PyCon
+
+<div class="video-wrapper">
+<iframe src="//www.youtube.com/embed/PAHBZImmXsI" frameborder="0" allowfullscreen></iframe>
+</div>
