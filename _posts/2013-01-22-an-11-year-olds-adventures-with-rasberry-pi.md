@@ -8,4 +8,4 @@ tags:
 - Python
 tumblr_url: http://coderdojodc.com/post/41199756763/an-11-year-olds-adventures-with-rasberry-pi
 ---
-An 11 year-old''s adventures with Rasberry PiLoving this 11 year-old’s blog about her adventures with Rasberry Pi''s, Lego Mindstorms and other general nerdery!
+Loving this [11 year-old’s blog](http://raspberrypikid.wordpress.com/about/) about her adventures with Rasberry Pis, Lego Mindstorms and other general nerdery!
