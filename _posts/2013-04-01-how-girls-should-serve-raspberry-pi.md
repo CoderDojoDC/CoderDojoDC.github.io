@@ -8,7 +8,7 @@ tags:
 - video
 tumblr_url: http://coderdojodc.com/post/46841246384/how-girls-should-serve-raspberry-pi
 ---
-<iframe width="500" height="281" src="//www.youtube.com/embed/0zJyTY9DMYE" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="//www.youtube.com/embed/0zJyTY9DMYE" frameborder="0" allowfullscreen></iframe>
 
 Thanks to @philshapiro for pointing out:
 
