@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'code.org'
 date: '2013-02-26T16:12:00-05:00'
 tags:
 - programming
@@ -9,4 +9,9 @@ tags:
 - inspiring
 tumblr_url: http://coderdojodc.com/post/44084005342/code-dot-org
 ---
-Thanks to CoderDojoDC dad @edsu for pointing this out…
+<div class="video-wrapper">
+<iframe src="//www.youtube.com/embed/dU1xS07N-FA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Thanks to CoderDojoDC dad [@edsu](https://twitter.com/edsu) for pointing this out…
+
