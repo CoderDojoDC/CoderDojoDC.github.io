@@ -6,6 +6,18 @@ Welcome to the CoderDojoDC website source code.
 
 So you want to create a new post? This probably happens a lot... The easiest way is probably to copy the content from an existing file in the `_posts` directory and create a new file with an appropriate `YYYY-MM-DD-url-to-page-usually-post-title.md` name. 
 
+The [YAML front-matter](http://jekyllrb.com/docs/frontmatter/) includes some specifications for the post, including the layout template that should be used, the title, the date, some tags (an array of strings), and anything else you want to store up there. The bare minimum for a post is `layout`, `date`, and a `title`. It looks like this in one example:
+
+```
+---
+layout: post
+title: Making progress!
+date: '2012-12-04T10:45:00-05:00'
+tags: []
+tumblr_url: http://coderdojodc.com/post/37190285749/making-progress
+---
+```
+
 Here are the [jekyll instructions](http://jekyllrb.com/docs/posts/).
 
 ## How it works?
