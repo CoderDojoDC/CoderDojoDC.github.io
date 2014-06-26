@@ -7,4 +7,4 @@ tags:
 - submission
 tumblr_url: http://coderdojodc.com/post/42576078105/sam-here-with-an-amazing-structure-built-entirely-by
 ---
-<img src="/assets/PWWKTht.png">
+![sam's structure](/assets/PWWKTht.png)
