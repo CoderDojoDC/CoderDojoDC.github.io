@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'CoderDojo: one rule -- be cool'
 date: '2013-03-29T08:05:39-04:00'
 tags:
 - CoderDojo
