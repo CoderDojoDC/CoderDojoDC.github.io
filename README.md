@@ -12,7 +12,7 @@ Here are the [jekyll instructions](http://jekyllrb.com/docs/posts/).
 
 *Github does this automatically when someone commits a change to the `master` branch of the `CoderDojoDC/CoderDojoDC.github.io` repository.*
 
-Jekyll generates static pages based on the markdown and html template code of all files with supported extensions (typically .md, .markdown, or .html) that have [YAML front-matter](http://jekyllrb.com/docs/frontmatter/). You can do this manually, [see below](https://github.com/CoderDojoDC/CoderDojoDC.github.io/#Running_the_source_code_locally_for_testing_--_Mac_OSX_(advanced)).
+Jekyll generates static pages based on the markdown and html template code of all files with supported extensions (typically .md, .markdown, or .html) that have [YAML front-matter](http://jekyllrb.com/docs/frontmatter/). You can do this manually, [see below](#running-the-source-code-locally-for-testing----mac-osx-advanced).
 
 Jekyll uses the [liquid](http://docs.shopify.com/themes/liquid-basics) templating language, and github pages gives us some  stuff out of the box, along with limited plugin support, see here for github's pages documentation: 
 
