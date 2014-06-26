@@ -7,7 +7,7 @@ layout: default
 		<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div><div class="post-comment-count"><a href="{{ post.url }}#disqus_thread">Comments</a></div>
 		{{ post.content | split:'<!--break-->' | first }}
 		{% if post.content contains '<!--break-->' %}
-			<a href="{{ post.url }}">read more</a>
+			<br/><a href="{{ post.url }}">Read more...</a>
 		{% endif %}
 	</div>
 	<hr>
