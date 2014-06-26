@@ -9,4 +9,6 @@ tags:
 - Python
 tumblr_url: http://coderdojodc.com/post/40756417815/rasberry-pi-education-manual
 ---
-Computing at School (CAS)’ Creative Commons-licensed teaching manual for the Raspberry Pi, with chapters on Scratch, Python, interfacing, the command line and more…
+Computing at School (CAS)’ Creative Commons-licensed teaching manual for the [Raspberry Pi](http://www.raspberrypi.org/archives/2965), with chapters on Scratch, Python, interfacing, the command line and more…
+
+<iframe height="600" src="https://docs.google.com/file/d/0B0pGcfJ33-pfMjlYWFhRRlhtanM/preview" width="500"></iframe>
