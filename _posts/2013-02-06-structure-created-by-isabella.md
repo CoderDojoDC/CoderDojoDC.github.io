@@ -7,7 +7,9 @@ tags:
 - submission
 tumblr_url: http://coderdojodc.com/post/42421138047/structure-created-by-isabella
 ---
+![isabella's structure](/assets/isabella-structure.jpg)
 
 Yesterday Isabella created this building. I liked it because it reminded me of modern structures built in Guadalajara, Mexico.
+
 I set her up with a blog through my tumblr account. Here it is:
-http://www.tumblr.com/blog/ancientbutterrajasofzoth
+[http://www.tumblr.com/blog/ancientbutterrajasofzoth](ttp://www.tumblr.com/blog/ancientbutterrajasofzoth)
