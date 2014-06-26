@@ -1,6 +1,8 @@
 # CoderDojoDC.github.io
 
-Welcome to the CoderDojoDC website source code.
+Welcome to the CoderDojoDC website source code. Todo list: 
+
+[![Waffle](https://badge.waffle.io/CoderDojoDC/CoderDojoDC.github.io.png?label=ready)](https://waffle.io/CoderDojoDC/CoderDojoDC.github.io)
 
 ## Creating a new post
 
