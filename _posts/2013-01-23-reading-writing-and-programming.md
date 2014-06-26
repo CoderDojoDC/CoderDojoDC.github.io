@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Resnick’s group developed the Scratch programming language to make coding accessible'
 date: '2013-01-23T09:58:12-05:00'
 tags:
 - scratch
