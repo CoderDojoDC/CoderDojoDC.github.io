@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'I want to see CoderDojoDC presentations like this one'
 date: '2012-12-09T07:11:52-05:00'
 tags:
 - jQuery
