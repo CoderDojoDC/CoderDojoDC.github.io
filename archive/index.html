@@ -4,7 +4,7 @@ layout: default
 <div id="home">
   <ul class="posts">
   {% for post in site.posts %}
-    <li><a href="{{ post.url }}#disqus_thread"><span>{{ post.date | date_to_string }}</span> &raquo; {{ post.title | truncatewords: 10 }}</a></li>
+    <li><a href="{{ post.url }}"><span>{{ post.date | date_to_string }}</span> &raquo; {{ post.title | truncatewords: 10 }}</a> &nbsp; <a href="{{ post.url }}#disqus_thread">Comments</a></li>
   {% endfor %}
   </ul>
 </div>
