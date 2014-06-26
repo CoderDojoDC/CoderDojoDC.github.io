@@ -33,6 +33,11 @@ def foo(t):
 {% endhighlight %}
 ```
 
+```markdown
+> Here's a quote
+> by someone...
+```
+
 ## How it works?
 
 *Github does this automatically when someone commits a change to the `master` branch of the `CoderDojoDC/CoderDojoDC.github.io` repository.*
