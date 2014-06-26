@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Check out this inspiring story of 14 year-old Santiago'
 date: '2013-01-09T06:01:40-05:00'
 tags:
 - video
