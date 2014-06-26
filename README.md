@@ -22,6 +22,17 @@ tumblr_url: http://coderdojodc.com/post/37190285749/making-progress
 
 Here are the [jekyll instructions](http://jekyllrb.com/docs/posts/).
 
+The format for post itself is done in [markdown](http://kramdown.gettalong.org/documentation.html)
+
+You can include code samples and block quotes with the special syntax, like so:
+
+```liquid
+{% highlight python %}
+def foo(t):
+  print("this is highlighted")
+{% endhighlight %}
+```
+
 ## How it works?
 
 *Github does this automatically when someone commits a change to the `master` branch of the `CoderDojoDC/CoderDojoDC.github.io` repository.*

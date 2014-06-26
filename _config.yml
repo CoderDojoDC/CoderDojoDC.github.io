@@ -1,6 +1,5 @@
 name: CoderDojoDC
-markdown: kramdown
-pygments: true
+markdown: redcarpet
 github: https://github.com/CoderDojoDC
 about: The Washington, D.C. area's free and open programming club for kids, 9-17.
 urls:
