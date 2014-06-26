@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Raspberry Pi vs PC in a Scratch powered LEGO/WeDo soccer showdown'
 date: '2013-02-02T05:35:02-05:00'
 tags:
 - RasberryPi
