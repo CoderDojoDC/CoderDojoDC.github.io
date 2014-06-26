@@ -1,6 +1,8 @@
-# CoderDojoDC.github.io
+# CoderDojoDC.github.io (soon to be CoderDojoDC.com)
 
-Welcome to the CoderDojoDC website source code. Todo list: [![Waffle](https://badge.waffle.io/CoderDojoDC/CoderDojoDC.github.io.png?label=ready)](https://waffle.io/CoderDojoDC/CoderDojoDC.github.io)
+Welcome to the CoderDojoDC website source code (the site itself is hosted by [github pages](https://pages.github.com/), generated via [Jekyll](http://jekyllrb.com/)). 
+
+Todo list: [![Waffle](https://badge.waffle.io/CoderDojoDC/CoderDojoDC.github.io.png?label=ready)](https://waffle.io/CoderDojoDC/CoderDojoDC.github.io)
 
 ## Creating a new post
 
