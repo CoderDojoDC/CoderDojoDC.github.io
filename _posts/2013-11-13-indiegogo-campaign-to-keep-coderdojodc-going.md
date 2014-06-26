@@ -9,7 +9,7 @@ tumblr_url: http://coderdojodc.com/post/66907732778/indiegogo-campaign-to-keep-c
 
 ![screenshot](/assets/2013-11-13-indiegogo-screenshot.png)
 
-<!-- break -->
+<!--break-->
 
 CoderDojo is a movement to provide free not-for-profit coding clubs and regular sessions for young people. In [CoderDojoDC](http://coderdojodc.com/)’s first year at the Silver Spring Civic Center we had multiple sessions focused on learning about technologies that make the Web Work: HTML, JavaScript and Python. We also explored educational tools like Scratch and Minecraft that introduce kids to computing in a fun and accessible way. The sessions were free and open to all who registered on the Website. 
 
