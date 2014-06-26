@@ -7,4 +7,4 @@ tags:
 - submission
 tumblr_url: http://coderdojodc.com/post/43251781829/world-got-deleted-saved-pic-though
 ---
-![world deleted](world-deleted.jpg)
+![world deleted](/assets/world-deleted.jpg)
