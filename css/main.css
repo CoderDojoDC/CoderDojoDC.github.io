@@ -32,7 +32,7 @@ h1, h2 {
 #page-content {
 	padding-left: 10px;
 	padding-right: 10px;
-	background-color:rgba(255,255,255,.5); 
+	background-color:rgba(255,255,255,.7); 
 }
 
 #page-content table {
@@ -41,11 +41,11 @@ h1, h2 {
 }
 
 #page-content table tbody tr:nth-child(odd) { 
-	background-color:rgba(255,255,255,.5); 
+	background-color:rgba(255,255,255,.7); 
 }
 
 #page-content table tbody tr:nth-child(even) { 
-	background-color: rgba(255,255,255,.7); 
+	background-color: rgba(255,255,255,.9); 
 }
 
 #page-content table tbody tr td { 
