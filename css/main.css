@@ -20,6 +20,10 @@
 	height: 100%;
 }
 
+#navigation {
+	padding-bottom:0px;
+}
+
 ul {
 	margin-bottom:0px;
 	padding-bottom:10px;
