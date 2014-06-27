@@ -1,5 +1,5 @@
 .theme-bg {
-  background: url(img/circuitboard.jpg) no-repeat center center fixed;
+  background: url(img/gaussian-dojo.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -135,7 +135,7 @@
   float: left;
 }
 body {
-  background: url(img/circuitboard.jpg) no-repeat center center fixed;
+  background: url(img/gaussian-dojo.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
