@@ -58,6 +58,7 @@ You'll want to look at the `_layouts` directory for the `default.html` template 
 1. Install [rvm](https://rvm.io/rvm/install)
 2. Install ruby 2.1.1 with: `rvm install 2.1.1`
 3. Install bundler (probably as root): `sudo gem install bundler`
-4. Run bundle install: `bundle install`
-5. Run jekyll serve: `bundle exec jekyll serve`
-6. Assuming everything worked properly, open your browser to [http://localhost:4000/](http://localhost:4000/)
+4. Git clone this repo and change to the root folder.
+5. Run bundle install: `bundle install`
+6. Run jekyll serve: `bundle exec jekyll serve`
+7. Assuming everything worked properly, open your browser to [http://localhost:4000/](http://localhost:4000/)
