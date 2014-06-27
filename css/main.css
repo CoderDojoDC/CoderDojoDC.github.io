@@ -50,3 +50,11 @@ h1, h2 {
 #page-content table tbody tr td { 
 	padding:5px;
 }
+
+.article-content p img {
+	width:100%;
+}
+
+footer {
+	clear:both;
+}

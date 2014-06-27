@@ -1,92 +1,83 @@
 ---
 layout: default
 ---
+<!--
 <section id="jumbotron">
-	<div id="carousel" class="carousel slide carousel-fade"><!-- CAROUSEL -->
-		<div class="row"><div class="col-md-8 slide-col-1">
-			<div class="carousel-inner">
-				{% for post in site.posts %}
-				<div class="item {% if post == site.posts.first %} active {% endif %}">
-					{% if post.img %}
-					<img src="{{post.img}}" alt="" />
-					<div class="filmgrain"></div>
-					{% endif %}
-					<div class="carousel-caption">
-						<h3>{{post.title}}</h3>
-						<p class="by-line">{{ post.date | date: "%B %d, %Y" }}</p>
-					</div>
-				</div>
-				{% endfor %}
-			</div>
-			<!-- CAROUSEL CONTROLS -->
-			<a class="left carousel-control" href="#carousel" data-slide="prev">
-				<span class="icon-prev"><span class="icon-left-arrow"></span></span>
-			</a>
-			<a class="right carousel-control" href="#carousel" data-slide="next">
-				<span class="icon-next"><span class="icon-right-arrow"></span></span>
-			</a>
-		</div>
-		<div class="col-md-4 slide-col-2 hidden-sm hidden-xs"><!-- CAROUSEL PREVIEW -->
-			<ul class="carousel-indicators">
-				{% for post in site.posts limit:4 %}
-				<li data-target="#carousel" data-slide-to="{{ forloop.index }}" {% if post == site.posts.first %} class="active" {% endif %}>
-					<div class="item-img">
-						<div class="dot-overlay"></div>
-						{% if post.imgpreview %}
-						<img src="images/image-7-preview.jpg" alt="" />
+	<div id="carousel" class="carousel slide carousel-fade"><!-- CAROUSEL 
+		<div class="row">
+			<div class="col-md-8 slide-col-1">
+				<div class="carousel-inner">
+					{% for post in site.posts  limit:4 %}
+					<div class="item {% if post == site.posts.first %} active {% endif %}">
+						{% if post.img %}
+						<img src="{{post.img}}" alt="" />
+						<div class="filmgrain"></div>
 						{% endif %}
+						<div class="carousel-caption">
+							<h3>{{post.title}}</h3>
+							<p class="by-line">{{ post.date | date: "%B %d, %Y" }}</p>
+						</div>
 					</div>
-					<div class="slide-preview">
-						<p>{{post.title}}</p>
-						<p class="by-line"><span>{{ post.date | date: "%B %d, %Y" }}</span></p>
-					</div>
-				</li>
-				{% endfor %}
-			</ul>
-		</div><!-- END CAROUSEL PREVIEW -->
+					{% endfor %}
+				</div>
+				<!-- CAROUSEL CONTROLS
+				<a class="left carousel-control" href="#carousel" data-slide="prev">
+					<span class="icon-prev"><span class="icon-left-arrow"></span></span>
+				</a>
+				<a class="right carousel-control" href="#carousel" data-slide="next">
+					<span class="icon-next"><span class="icon-right-arrow"></span></span>
+				</a>
+			</div>
+			<div class="col-md-4 slide-col-2 hidden-sm hidden-xs"><!-- CAROUSEL PREVIEW 
+				<ul class="carousel-indicators">
+					{% for post in site.posts limit:4 %}
+					<li data-target="#carousel" data-slide-to="{{ forloop.index }}" {% if post == site.posts.first %} class="active" {% endif %}>
+						<div class="item-img">
+							<div class="dot-overlay"></div>
+							{% if post.imgpreview %}
+							<img src="../hopkirk/images/image-7-preview.jpg" alt="" />
+							{% endif %}
+						</div>
+						<div class="slide-preview">
+							<p>{{post.title}}</p>
+							<p class="by-line"><span>{{ post.date | date: "%B %d, %Y" }}</span></p>
+						</div>
+					</li>
+					{% endfor %}
+				</ul>
+			</div><!-- END CAROUSEL PREVIEW 
+		</div>
 	</div><!-- END CAROUSEL -->
 </section>
-<div id="grid"><!-- ARTICLE GRID -->
-{% for post in site.posts limit:10 %}
-	<div class="spacer"></div>
-	<article class="col-sm-6 col-md-4 item"><!-- ARTICLE 1 -->
-		<!--
-		<div class="item-img">
-			<div class="dot-overlay"></div>
-			<img src="images/image-18.jpg" alt="">
-		</div>
-		-->
-		<div class="solid light-gray">
-			<div class="article-content">
-				<h2>{{post.title}}</h2>
-				<p class="by-line">{{ post.date | date: "%B %d, %Y" }}</p>
-				<p class="lead">{{}}</p>
-				{% if post.quote %}
-				<blockquote>
-					<p>{{post.quote}}</p>
-					{% if post.quoteauthor %}
-					<small>{{post.quoteauthor}}</small>
+
+<section id="article-grid">
+	<div id="grid">
+	{% for post in site.posts limit:10 %}
+		<div class="spacer"></div>
+		<article class="col-sm-6 col-md-4 item">
+			<div class="solid light-gray">
+				<div class="article-content">
+					<h2>{{post.title}}</h2>
+					<p class="by-line">{{ post.date | date: "%B %d, %Y" }}</p>
+					<p>{{ post.content | split:'<!--break-->' | first }}</p>
+				</div>
+				<div class="action-links">
+					{% if post.content contains '<!--break-->' %}
+					<a href="{{ post.url }}" class="btn btn-primary">Read more</a>
 					{% endif %}
-				</blockquote>
-				{% endif %}
-				<p>{{ post.content | split:'<!--break-->' | first }}</p>
+					<p class="article-info"><span class="icon-clock">&nbsp; {{ post.date | date: "%B %d, %Y" }} </span></p>
+					<p class="article-info"><span class="icon-tag">&nbsp; </span> {{ post.categories }}</p>
+					<a href="{{post.url}}#disqus_thread" class="btn btn-brand-dark btn-right"><span class="icon-comment"></span></a>
+				</div>
 			</div>
-			<div class="action-links"><!-- START ACTION LINKS -->
-				{% if post.content contains '<!--break-->' %}
-				<a href="{{ post.url }}" class="btn btn-primary">Read more</a>
-				{% endif %}
-				<p class="article-info"><span class="icon-clock">&nbsp; {{ post.date | date: "%B %d, %Y" }} </span></p>
-				<p class="article-info"><span class="icon-tag">&nbsp; </span> {{ post.categories }}</p>
-				<a href="{{post.url}}#disqus_thread" class="btn btn-brand-dark btn-right"><span class="icon-comment"></span></a>
-			</div><!-- END ACTION LINKS -->
-		</div>
-	</article><!-- END ARTICLE 1 -->         
-{% endfor %}
-</div><!-- END ARTICLE GRID -->
+		</article>
+	{% endfor %}
+	</div>
+</section>
 
 <script type="text/javascript">
 	/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-	var disqus_shortname = 'coderdojodc'; // required: replace example with your forum shortname
+	var disqus_shortname = 'coderdojodc';
 
 	/* * * DON'T EDIT BELOW THIS LINE * * */
 	(function () {
