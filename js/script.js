@@ -5,9 +5,9 @@ LazyLoad.js(['js/lib/jquery-1.10.2.min.js', 'bootstrap/js/bootstrap.min.js', 'js
 	var pckry;
 	imagesLoaded( container, function() {
 		pckry = new Packery( container, {
-			columnWidth: '.col-xs-3',
+			columnWidth: '.col-md-4',
 			itemSelector: '.item',
-			gutter: 10  
+			gutter: 0  
 		});
 	});
 	// TICKER
