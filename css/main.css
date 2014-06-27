@@ -20,9 +20,15 @@
 	height: 100%;
 }
 
+ul {
+	margin-bottom:0px;
+	padding-bottom:10px;
+}
+
 ul li p {
 	padding-top:5px;
 	padding-bottom:5px;
+	margin-bottom:0px;
 }
 
 h1, h2 {
