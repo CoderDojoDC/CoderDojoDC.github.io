@@ -2,7 +2,7 @@
 title: 'About'
 layout: default
 ---
-CoderDojoDC is part of the free, open, and non-profit <a href="http://coderdojo.com/">CoderDojo movement</a> to teach kids 9-17 how to code.  Best way to learn more is to watch a video:
+### The best way to learn more is to watch a video:
 
 <div class="video-wrapper">
 <iframe width="500" height="281" src="//www.youtube.com/embed/843_R-Rjj2w" frameborder="0" allowfullscreen></iframe>

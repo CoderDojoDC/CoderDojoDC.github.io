@@ -1,18 +1,22 @@
 name: CoderDojoDC
 markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
+gems:
+  - jekyll-redirect-from
 github: https://github.com/CoderDojoDC
 about: The Washington, D.C. area's free and open programming club for kids, 9-17.
 urls:
   - text: about
-    url: http://coderdojodc.github.io/about/
+    url: /about
   - text: faq
-    url: http://coderdojodc.github.io/faq/
+    url: /faq
   - text: meetings
-    url: http://coderdojodc.github.io/meetings/
+    url: /meetings
   - text: resources
     url: https://groups.diigo.com/group/CoderDojo?view=popular
   - text: archive
-    url: http://coderdojodc.github.io/archive/
+    url: /archive
   - text: meetup (RSVP)
     url: http://www.meetup.com/CoderDojoDC/
   - text: list

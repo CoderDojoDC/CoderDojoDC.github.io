@@ -1,45 +1,116 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>{% if page.title %} {{ page.title }} {% else %} {{ site.name }} {% endif %}</title>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link href="/css/bootstrap.min.css" rel="stylesheet">
-		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="/css/syntax.css">
+<!doctype html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>{% if page.title %} {{ page.title }} {% else %} {{ site.name }} {% endif %}</title>
+	<meta name="description" content="CoderDojoDC is part of the free, open, and non-profit CoderDojo movement to teach kids 9-17 how to code." />
+	<!-- TWITTER CARDS -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@CoderDojoDC">
+	<meta name="twitter:title" content="{{page.title}}">
+	<meta name="twitter:description" content="CoderDojoDC is part of the free, open, and non-profit CoderDojo movement to teach kids 9-17 how to code.">
+	<meta name="twitter:creator" content="@CoderDojoDC">
+	<!-- TWITTER SUMARY CARD - MIN 200x200px -->
+	<meta name="twitter:image" content="/img/logo.png">
 
-	</head>
-	<body>
+	<!-- OPEN GRAPH-->
+	<meta property="og:title" content="{{page.title}}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="{{page.url}}" />
+	<meta property="og:image" content="img/facebook-image.jpg" />
+	<meta property="og:description" content="CoderDojoDC is part of the free, open, and non-profit CoderDojo movement to teach kids 9-17 how to code." />
+	<meta property="og:site_name" content="CoderDojoDC" />
+	<meta property="fb:admins" content="Facebook numeric ID" /> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<!-- GOOGLE FONTS -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,400italic' rel='stylesheet' type='text/css'>
+	
+	<!-- THEME STYLES -->
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="/css/style.css" />
+	<link rel="stylesheet" href="/css/nivo-lightbox.css" type="text/css" />
+	<link rel="stylesheet" href="/css/themes/default/default.css" type="text/css" />
+	<link rel="stylesheet" href="/css/syntax.css">
+	<link rel="stylesheet" href="/css/main.css">
 
-		<div class="container">
+	<!-- SHIVS FOR IE8 -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<![endif]-->
 
-			<div class="col-lg-12">
-				<a id="header-logo" href="http://coderdojodc.github.io/"><img id="about" src="/img/logo.png" /></a><br />	
+	<!-- FAVICONS -->
+	<link rel="apple-touch-icon" href="img/touchicon.png">
+	<link rel="icon" href="img/favicon.png">
+	<!--[if IE]><link rel="shortcut icon" href="images/fav/favicon.ico"><![endif]-->
+	<meta name="msapplication-TileColor" content="#3D86C6">
+	<meta name="msapplication-TileImage" content="img/tileicon.png">
+</head>
+<body>
+	<div id="page" class="container"><!-- START PAGE -->
+		<header><!-- HEADER -->
+			<div class="row">
+				<a href="/"><img class="img-responsive center-block" src="/img/logo.png"></a>
 			</div>
-
-			<div class="col-lg-3 nav-bar">
-				<p>
-				The Washington, D.C. area's free and open programming club for kids, 9-17. ...<a href="/about/">more</a>
-				</p>
-				{% for i in site.urls %}
-					<a class="nav-link" href="{{ i.url }}">/{{ i.text }}</a>
-				{% endfor %}
-				
+			<div class="row">
+				<div class="col-xs-12 header-col menu-col inverse-bar logo-col"><!-- MENU COLUMN -->
+					<div class="navbar navbar-default">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+								<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="collapse navbar-collapse">
+							<ul id="navigation" class="nav navbar-nav">
+								{% for i in site.urls %}
+								<li><a {% if i.url == page.url %} class="active" {% endif %} href="{{ i.url }}">/{{ i.text }}</a></li>
+								{% endfor %}
+							</ul>
+						</div>
+					</div>
+				</div><!-- END MENU COLUMN -->
 			</div>
-
-			<div class="col-lg-9 col-offset-1">
-				
-				{{ content }}
-				
-				<footer>
-					&copy; {{ site.name }}
-				</footer>
+			<div class="row">
+				<div class="col-xs-6 col-sm-9 white-bar ticker-col"><!-- TICKER COLUMN -->
+					<div id="ticker" style="padding-top:6px">
+						CoderDojoDC is part of the free, open, and non-profit <a href="http://coderdojo.com/">CoderDojo movement</a> to teach kids 9-17 how to code.
+					</div>
+				</div><!-- END TICKER COLUMN -->
+				<div class="col-xs-6 col-sm-3 white-bar search-col"><!-- SEARCHBAR COLUMN -->
+					<form class="form-inline" role="form" action="/results.html">
+						<div class="row">
+							<div class="col-xs-9 search-col">
+								<input class="form-control" placeholder="Search" type="text" name="q">
+							</div>
+							<div class="col-xs-3 search-col">
+								<button type="submit" class="btn btn-primary btn-block">Go</button>
+							</div>      
+						</div>
+					</form>
+				</div><!-- END SEARCHBAR COLUMN -->
 			</div>
-		
-		</div>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
-	</body>
+		</header><!-- END HEADER -->
+		<section id="page-content"><!-- PAGE CONTENT -->
+			{{ content }}
+		</section><!-- END PAGE CONTENT -->
+		<footer id="footer"><!-- FOOTER -->
+			<div style="padding-top:10px;padding-bottom:10px;" class="row footer-last">
+				<h5 class="text-center">&copy; 2014 CoderDojoDC</h5>
+			</div>
+		</footer><!-- END FOOTER -->
+	</div><!-- END PAGE -->
+	<!-- SCRIPTS - LAZYLOADED -->
+	<script src="/js/lib/lazyload.js"></script>
+	<!--
+	<script src="js/script.js"></script>
+	<script src="js/lib/jquery-1.10.2.min.js"></script>
+	<script src="js/plugins/nivo-lightbox.min.js"></script>
+	-->
+
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+</body>
 </html>
