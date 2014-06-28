@@ -17,3 +17,13 @@ If you’ve got a kid who wants to learn how to code or if you’d be interested
 3. ...oh and kids, 7-17!  (12 and under must be accompanied by a parent, but parents of all attendees are strongly encouraged to participate!)
 
 ...meanwhile, <a href="http://coderdojonyc.com/">http://CoderDojoNYC.com</a> should give you a pretty good idea of what we hope to do here in the D.C. area.  Or check out some <a href="http://is.gd/DTxuYe">videos of other CoderDojos</a>.
+
+## Sponsors
+
+CoderDojoDC was founded in December 2012. We have run sessions that meet every
+other week thanks to the generousity of our volunteers and sponsors. This has
+allowed us to keep our Dojo free and open to all Washington, DC area youth. If
+you are interested in supporting what we do, please email us at
+[DC@CoderDojo.com](mailto:DC@coderdojo.com).
+
+![Elk's lodge](/assets/elkslodge.png)
