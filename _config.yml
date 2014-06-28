@@ -9,15 +9,15 @@ about: The Washington, D.C. area's free and open programming club for kids, 9-17
 urls:
   - text: about
     url: /about
-  - text: faq
-    url: /faq
   - text: meetings
     url: /meetings
+  - text: RSVP
+    url: http://www.meetup.com/CoderDojoDC/
+  - text: mailing list
+    url: https://groups.google.com/forum/#!forum/coderdojodc
+  - text: faq
+    url: /faq
   - text: resources
     url: https://groups.diigo.com/group/CoderDojo?view=popular
   - text: archive
     url: /archive
-  - text: meetup (RSVP)
-    url: http://www.meetup.com/CoderDojoDC/
-  - text: list
-    url: https://groups.google.com/forum/#!forum/coderdojodc

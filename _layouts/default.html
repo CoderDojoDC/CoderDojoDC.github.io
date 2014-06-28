@@ -65,7 +65,7 @@
 						<div class="collapse navbar-collapse">
 							<ul id="navigation" class="nav navbar-nav">
 								{% for i in site.urls %}
-								<li><a {% if i.url == page.url %} class="active" {% endif %} href="{{ i.url }}">/{{ i.text }}</a></li>
+								<li><a {% if i.url == page.url %} class="active" {% endif %} href="{{ i.url }}">{{ i.text }}</a></li>
 								{% endfor %}
 							</ul>
 						</div>
