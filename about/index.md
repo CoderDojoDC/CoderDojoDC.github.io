@@ -5,7 +5,7 @@ layout: default
 ### The best way to learn more is to watch a video:
 
 <div class="video-wrapper">
-<iframe width="500" height="281" src="//www.youtube.com/embed/843_R-Rjj2w" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="//www.youtube.com/embed/z_gcHGa8J1E" frameborder="0" allowfullscreen></iframe>
 </div>
 
 If you’ve got a kid who wants to learn how to code or if you’d be interested in teaching or just getting involved, join our <a href="https://groups.google.com/forum/?fromgroups#!forum/coderdojodc">mailing list</a> and follow us at [@CoderDojoDC](https://twitter.com/CoderDojoDC).
