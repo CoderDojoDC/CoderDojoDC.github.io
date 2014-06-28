@@ -37,6 +37,14 @@ and RSVP.
 
 Most CoderDojo’s find there’s just to much turn-around from one meeting to the next and, maybe because it’s a free event, it’s hard to find enough people to commit to more than one meeting at a time.  By opening registration for each meeting, we’re able to accommodate new faces, while avoiding exceeding the capacity of the room.
 
+### You're called CoderDojoDC, but you meet in Maryland. Why?
+
+First, if your drive takes a while to get to CoderDojoDC, thanks for making the
+trip. Given that we never want to charge anyone for coming to our meetings, we
+can only meet in low cost or sponsored locations. We initially found these in
+Maryland. If you're coming from Virgina,
+take a look at our partner Dojo, [CoderDojoNova](http://www.coderdojonova.co/).
+
 ### How does my child earn badges?
 
 We haven’t worked this out yet - would anyone like to take the lead on this?
