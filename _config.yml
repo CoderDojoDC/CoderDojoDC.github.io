@@ -5,7 +5,7 @@ redcarpet:
 gems:
   - jekyll-redirect-from
 github: https://github.com/CoderDojoDC
-about: The Washington, D.C. area's free and open programming club for kids, 9-17.
+about: The Washington, D.C. area's free and open programming club for kids, 7-17.
 urls:
   - text: about
     url: /about

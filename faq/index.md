@@ -6,15 +6,15 @@ layout: default
 
 ### How much does CoderDojoDC cost?
 
-Nothing!  One of the core rules of the CoderDojo format is to keep everything low-stress, by avoiding introducing any costs for anyone, for anything.  We are completely dependent on volunteers and donated equipment and space to meet.
+Nothing! One of the core rules of the CoderDojo format is to keep everything low-stress, by avoiding introducing any costs for anyone, for anything.  We are completely dependent on volunteers and donated equipment and space to meet.
 
-### My child is not yet 9 years old, can s/he still attend?
+### My child is not yet 7 years old, can s/he still attend?
 
-Children as young as 7 are welcome with an accompanying parent, but content, activities and resources are specifically geared towards 9-17 year-olds.
+We do not turn away younger children, but content, activities and resources are specifically geared towards 7-17 year-olds.
 
 ### I am over 17 - may I register to attend?
 
-CoderDojo is geared only towards 9 to 17 year-olds.  If you’d like to attend to teach, volunteer or just observe, please drop us a line to discuss: DC@CoderDojo.com
+CoderDojo is geared only towards 7 to 17 year-olds.  If you’d like to attend to teach, volunteer or just observe, please drop us a line to discuss: DC@CoderDojo.com
 
 ### May I leave my child?
 
