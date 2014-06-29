@@ -3,12 +3,15 @@ LazyLoad.js(['/js/lib/jquery-1.10.2.min.js', '/bootstrap/js/bootstrap.min.js', '
 	// PACKERY FRONT PAGE GRID
 	var container = document.querySelector('#grid');
 	var pckry;
+	/*
+	// we're not actually using this at the moment
 	imagesLoaded( container, function() {
 		pckry = new Packery( container, {
 			itemSelector: '.item',
 			gutter: 0
 		});
 	});
+	*/
 	// LIGHTBOX
 	$('a.lightbox').nivoLightbox({
 		effect: 'fall',                            
