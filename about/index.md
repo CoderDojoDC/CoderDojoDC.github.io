@@ -21,7 +21,7 @@ If you’ve got a kid who wants to learn how to code or if you’d be interested
 ## Sponsors
 
 CoderDojoDC was founded in December 2012. We have run sessions that meet every
-other week thanks to the generousity of our volunteers and sponsors. This has
+other week thanks to the generosity of our volunteers and sponsors. This has
 allowed us to keep our Dojo free and open to all Washington, DC area youth. If
 you are interested in supporting what we do, please email us at
 [DC@CoderDojo.com](mailto:DC@coderdojo.com).
