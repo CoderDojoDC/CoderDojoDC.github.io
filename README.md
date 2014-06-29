@@ -53,7 +53,9 @@ Jekyll uses the [liquid](http://docs.shopify.com/themes/liquid-basics) templatin
 
 You'll want to look at the `_layouts` directory for the `default.html` template (used in most pages). Files with an `.html` extension likely also include some templating.
 
-## Running the source code locally for testing -- Mac OSX (advanced)
+## Running the source code locally for testing (advanced)
+
+This works for Mac OSX and Linux
 
 1. Install [rvm](https://rvm.io/rvm/install)
 2. Install ruby 2.1.1 with: `rvm install 2.1.1`

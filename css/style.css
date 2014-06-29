@@ -717,7 +717,7 @@ ul.pagination li a:focus {
 }
 @media (max-width: 1199px) {
   .ticker-col #ticker {
-    font-size: 10px;
+    font-size: 11px;
   }
 }
 .search-col {
