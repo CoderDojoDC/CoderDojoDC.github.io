@@ -11,8 +11,6 @@ urls:
     url: /about
   - text: meetings
     url: /meetings
-  - text: RSVP
-    url: http://www.meetup.com/CoderDojoDC/
   - text: mailing list
     url: https://groups.google.com/forum/#!forum/coderdojodc
   - text: faq

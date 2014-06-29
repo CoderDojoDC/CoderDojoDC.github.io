@@ -2,11 +2,14 @@
 title: 'Meetings'
 layout: default
 ---
-## Times and locations
+## Meetup
 
-See our meetup site for times and locations of all of our meetings: [meetup.com/CoderDojoDC](http://www.meetup.com/CoderDojoDC/)
+We use meetup.com to handle our meeting announcements. See our
+[meetup.com/CoderDojoDC](http://www.meetup.com/CoderDojoDC/) page
+for times and locations. To help us plan and to avoid overcrowding our
+locations, please consider RSVP'ing yourself and your children on meetup.
 
-## Format
+## Meeting format
 
 Our meetings are 2 hours long, and we follow a similar format for each one.
 After a brief intro to the group, kids and mentors break up into sections based
