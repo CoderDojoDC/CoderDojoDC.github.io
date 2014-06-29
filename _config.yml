@@ -17,7 +17,10 @@ urls:
     url: https://groups.google.com/forum/#!forum/coderdojodc
   - text: faq
     url: /faq
-  - text: resources
-    url: https://groups.diigo.com/group/CoderDojo?view=popular
+# Commenting out resources for now since it never caught on. There's content
+# there, so if we make a new resources page, we might want to copy some of it
+# over.
+#  - text: resources
+#    url: https://groups.diigo.com/group/CoderDojo?view=popular
   - text: archive
     url: /archive
