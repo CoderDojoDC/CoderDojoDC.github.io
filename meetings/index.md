@@ -12,7 +12,7 @@ locations, please consider RSVP'ing yourself and your children on meetup.
 ## Meeting format
 
 Our meetings are 2 hours long, and we follow a similar format for each one.
-After a brief intro to the group, kids and mentors break up into sections based
+After a brief intro to the group, children and mentors break up into sections based
 on programming interests. (Don't know where to go? Don't worry, we'll help if
 it's your first time.) Depending on the meeting, we may have a mentor or
 student present to their section or to the whole group. From then on, everyone

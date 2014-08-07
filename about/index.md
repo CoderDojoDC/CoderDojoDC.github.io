@@ -8,13 +8,13 @@ layout: default
 <iframe width="640" height="390" src="//www.youtube.com/embed/z_gcHGa8J1E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-If you’ve got a kid who wants to learn how to code or if you’d be interested in teaching or just getting involved, join our <a href="https://groups.google.com/forum/?fromgroups#!forum/coderdojodc">mailing list</a> and follow us at [@CoderDojoDC](https://twitter.com/CoderDojoDC).
+If you’ve got a child who wants to learn how to code or if you’d be interested in teaching or just getting involved, join our <a href="https://groups.google.com/forum/?fromgroups#!forum/coderdojodc">mailing list</a> and follow us at [@CoderDojoDC](https://twitter.com/CoderDojoDC).
 
 ...What we need:
 
-1. Parents/Volunteers/Mentors to teach <a href="http://scratch.mit.edu/" target="_blank">Scratch</a>, HTML, JavaScript, <a href="http://www.raspberrypi.org/">Raspberry Pi</a>, <a href="http://www.edubuntu.org/">Edubuntu</a>, <a href="http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076" target="_blank">Python</a>, <a href="http://www.makeymakey.com/" target="_blank">Makey Makey</a>, <a href="https://minecraft.net/">Minecraft</a>, <a href="http://hackety.com/">Hackety Hack</a>, <a href="http://www.alice.org/">Alice</a>, <a href="http://processing.org/">Processing</a>, <a href="http://code.google.com/p/blockly/">Blockly</a>, <a href="http://mindstorms.lego.com/">Lego Mindstorms</a> …anything the kids want to learn and we can find a volunteer to teach!
+1. Parents/Volunteers/Mentors to teach <a href="http://scratch.mit.edu/" target="_blank">Scratch</a>, HTML, JavaScript, <a href="http://www.raspberrypi.org/">Raspberry Pi</a>, <a href="http://www.edubuntu.org/">Edubuntu</a>, <a href="http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076" target="_blank">Python</a>, <a href="http://www.makeymakey.com/" target="_blank">Makey Makey</a>, <a href="https://minecraft.net/">Minecraft</a>, <a href="http://hackety.com/">Hackety Hack</a>, <a href="http://www.alice.org/">Alice</a>, <a href="http://processing.org/">Processing</a>, <a href="http://code.google.com/p/blockly/">Blockly</a>, <a href="http://mindstorms.lego.com/">Lego Mindstorms</a> …anything the children want to learn and we can find a volunteer to teach!
 2. Old laptops for students who can’t bring their own, preferably with at least 2 GB RAM and 100 GB Hard Drive - we’ll do regular sessions on salvaging old machines with the free <a href="http://www.ubuntu.com/">Ubuntu Linux Operating System</a>!
-3. ...oh and kids, 7-17!  (12 and under must be accompanied by a parent, but parents of all attendees are strongly encouraged to participate!)
+3. ...oh and children, 7-17!  (12 and under must be accompanied by a parent, but parents of all attendees are strongly encouraged to participate!)
 
 ...meanwhile, <a href="http://coderdojonyc.com/">http://CoderDojoNYC.com</a> should give you a pretty good idea of what we hope to do here in the D.C. area.  Or check out some <a href="http://is.gd/DTxuYe">videos of other CoderDojos</a>.
 
