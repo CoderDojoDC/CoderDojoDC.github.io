@@ -1,12 +1,12 @@
-# CoderDojoDC.github.io (soon to be CoderDojoDC.com)
+# CoderDojoDC.com
 
-Welcome to the CoderDojoDC website source code (the site itself is hosted by [github pages](https://pages.github.com/), generated via [Jekyll](http://jekyllrb.com/)). 
+Welcome to the CoderDojoDC website source code (the site itself is hosted by [github pages](https://pages.github.com/), generated via [Jekyll](http://jekyllrb.com/)).
 
 Todo list: [![Waffle](https://badge.waffle.io/CoderDojoDC/CoderDojoDC.github.io.png?label=ready)](https://waffle.io/CoderDojoDC/CoderDojoDC.github.io)
 
 ## Creating a new post
 
-So you want to create a new post? This probably happens a lot... The easiest way is probably to copy the content from an existing file in the `_posts` directory and create a new file with an appropriate `YYYY-MM-DD-url-to-page-usually-post-title.md` name. 
+So you want to create a new post? This probably happens a lot... The easiest way is probably to copy the content from an existing file in the `_posts` directory and create a new file with an appropriate `YYYY-MM-DD-url-to-page-usually-post-title.md` name.
 
 The [YAML front-matter](http://jekyllrb.com/docs/frontmatter/) includes some specifications for the post, including the layout template that should be used, the title, the date, some tags (an array of strings), and anything else you want to store up there. The bare minimum for a post is `layout`, `date`, and a `title`. It looks like this in one example:
 
@@ -44,7 +44,7 @@ def foo(t):
 
 Jekyll generates static pages based on the markdown and html template code of all files with supported extensions (typically .md, .markdown, or .html) that have [YAML front-matter](http://jekyllrb.com/docs/frontmatter/). You can do this manually, [see below](#running-the-source-code-locally-for-testing----mac-osx-advanced).
 
-Jekyll uses the [liquid](http://docs.shopify.com/themes/liquid-basics) templating language, and github pages gives us some  stuff out of the box, along with limited plugin support, see here for github's pages documentation: 
+Jekyll uses the [liquid](http://docs.shopify.com/themes/liquid-basics) templating language, and github pages gives us some  stuff out of the box, along with limited plugin support, see here for github's pages documentation:
 
 * [Using Jekyll with github pages](https://help.github.com/articles/using-jekyll-with-pages)
 * [Github pages basics](https://help.github.com/categories/20/articles)
