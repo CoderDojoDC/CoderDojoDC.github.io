@@ -6,6 +6,7 @@ gems:
   - jekyll-redirect-from
 github: https://github.com/CoderDojoDC
 about: The Washington, D.C. area's free and open programming club for kids, 7-17.
+google_analytics_id: UA-16709386-3
 urls:
   - text: about
     url: /about
