@@ -6,7 +6,9 @@ layout: default
 
 ### How much does CoderDojoDC cost?
 
-Nothing! One of the core rules of the CoderDojo format is to keep everything low-stress, by avoiding introducing any costs for anyone, for anything.  We are completely dependent on volunteers and donated equipment and space to meet.
+Nothing! One of the core rules of the CoderDojo format is to keep everything
+low-stress, by avoiding introducing any costs for anyone, for anything.  We
+are completely dependent on volunteers and donated equipment and space to meet.
 
 ### My child is not yet 7 years old, can s/he still attend?
 
@@ -18,7 +20,12 @@ CoderDojo is geared only towards 7 to 17 year-olds.  If you’d like to attend t
 
 ### May I leave my child?
 
-A parent or guardian must stay with children 12 and under, but all parents are strongly encouraged to stay and participate.  CoderDojoDC is a free, public club, held in a public building and assumes no responsibility for the welfare of older attendees.  If an older child leaves or must be asked to leave for whatever reason, or his or her parent fails to pick the child up before the end of the meeting, CoderDojoDC’s volunteers cannot be held responsible for that child’s welfare.
+A parent or guardian must stay with children 12 and under, but all parents
+are strongly encouraged to stay and participate.  CoderDojoDC is a free,
+public club and assumes no responsibility for the welfare of older attendees.
+If an older child leaves or must be asked to leave for whatever reason, or
+his or her parent fails to pick the child up before the end of the meeting,
+CoderDojoDC’s volunteers cannot be held responsible for that child’s welfare.
 
 ### What should I bring, how should I prepare?
 
