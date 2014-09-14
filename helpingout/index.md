@@ -23,12 +23,12 @@ before you show up so that we can talk about how best you can help out.
 
 ## Donations
 
-We are current in need of hardware donations of Arduinos, Raspberry Pis, Makey
+We are currently in need of hardware donations of Arduinos, Raspberry Pis, Makey
 Makeys and the various parts needed to use them. If you have an Arduino
 or other hardware sitting in your basement collecting dust, please consider
 donating it. As a free computer club, we will never require children to purchase
 anything to come to our meetings, and we currently do not have nearly enough
-hardware to properly teach the whole group all of the awesome things that can be
+hardware to properly teach the whole group about all of the awesome things that can be
 done with these devices. Your donation will get a lot of use.
 
 ## Sponsors
