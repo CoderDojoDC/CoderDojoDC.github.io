@@ -62,5 +62,5 @@ This works for Mac OSX and Linux
 3. Install bundler (probably as root): `sudo gem install bundler`
 4. Git clone this repo and change to the root folder.
 5. Run bundle install: `bundle install`
-6. Run jekyll serve: `bundle exec jekyll serve`
+6. Run jekyll serve: `bundle exec jekyll serve -w`
 7. Assuming everything worked properly, open your browser to [http://localhost:4000/](http://localhost:4000/)

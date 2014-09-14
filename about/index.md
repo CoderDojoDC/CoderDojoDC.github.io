@@ -8,25 +8,45 @@ layout: default
 <iframe width="640" height="390" src="//www.youtube.com/embed/z_gcHGa8J1E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-If you’ve got a child who wants to learn how to code or if you’d be
-interested in teaching or just getting involved, join our
-<a href="https://groups.google.com/forum/?fromgroups#!forum/coderdojodc">mailing list</a>
+If you know a child who wants to learn how to code or if you’d be interested in
+helping out, join our [mailing list](https://groups.google.com/forum/?fromgroups#!forum/coderdojodc")
 and follow us at [@CoderDojoDC](https://twitter.com/CoderDojoDC).
 
-...What we need:
+We usually meet every other Sunday afternoon. The [CoderDojoDC Meetup
+Page](http://www.meetup.com/CoderDojoDC/) lists our meeting times and locations.
+Please RSVP yourself and your children to help us plan and avoid overcrowding
+our locations.
 
-1. Parents/Volunteers/Mentors to teach <a href="http://scratch.mit.edu/" target="_blank">Scratch</a>, HTML, JavaScript, <a href="http://www.raspberrypi.org/">Raspberry Pi</a>, <a href="http://www.edubuntu.org/">Edubuntu</a>, <a href="http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076" target="_blank">Python</a>, <a href="http://www.makeymakey.com/" target="_blank">Makey Makey</a>, <a href="https://minecraft.net/">Minecraft</a>, <a href="http://hackety.com/">Hackety Hack</a>, <a href="http://www.alice.org/">Alice</a>, <a href="http://processing.org/">Processing</a>, <a href="http://code.google.com/p/blockly/">Blockly</a>, <a href="http://mindstorms.lego.com/">Lego Mindstorms</a> …anything the children want to learn and we can find a volunteer to teach!
-2. Old laptops for students who can’t bring their own, preferably with at least 2 GB RAM and 100 GB Hard Drive - we’ll do regular sessions on salvaging old machines with the free <a href="http://www.ubuntu.com/">Ubuntu Linux Operating System</a>!
-3. ...oh and children, 7-17!  (12 and under must be accompanied by a parent, but parents of all attendees are strongly encouraged to participate!)
+## What to bring
 
-...meanwhile, <a href="http://coderdojonyc.com/">http://CoderDojoNYC.com</a> should give you a pretty good idea of what we hope to do here in the D.C. area.  Or check out some <a href="http://is.gd/DTxuYe">videos of other CoderDojos</a>.
+Our meetings are free and open to all children. Children 12 and under must
+bring a parent, but we strongly encourage all parents to stay and help out. If
+you have a laptop, please bring it, but this is not required. We work with
+[Codestarter](https://codestarter.org/) to help every child who's
+interested in programming to have their own computer. Talk to us at a meeting if
+you are interested in this.
 
-## Sponsors
+The most important things to bring, though, are your creativity, energy and a
+desire to share what you known and learn what you don't. If you're already
+working on a programming project, feel free to bring it and present it at the
+end.
 
-CoderDojoDC was founded in December 2012. We have run sessions that meet every
-other week thanks to the generosity of our volunteers and sponsors. This has
-allowed us to keep our Dojo free and open to all Washington, DC area youth. If
-you are interested in supporting what we do, please email us at
-[DC@CoderDojo.com](mailto:DC@coderdojo.com).
+## What to expect
 
-![Elk's lodge](/assets/elkslodge.png)
+Our meetings are 2 hours long, and we follow a similar format for each one.
+After a brief intro to the group, children and mentors break up into sections
+based on programming interests. (Don't know where to go? Don't worry, we'll help
+if it's your first time.) Depending on the meeting, we may have a mentor or
+student present to their section or to the whole group. From then on, everyone
+works on their projects. We have many people who choose to work together on
+projects, and some who switch from group to group to try out new programming
+lanugages. At the end, we come back together and everyone is encouraged to
+present their work to the group.
+
+## Other area CoderDojos
+
+If our meeting times and locations aren't convenient or you just want to attend
+more CoderDojo meetings, check out the following area dojos:
+
+* [CoderDojo NOVA](http://www.coderdojonova.co/) in Springfield/Alexandria
+* [DCCodes](http://dccodes.weebly.com/) in Tenleytown

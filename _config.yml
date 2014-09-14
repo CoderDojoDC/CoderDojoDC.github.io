@@ -10,8 +10,8 @@ google_analytics_id: UA-16709386-3
 urls:
   - text: about
     url: /about
-  - text: meetings
-    url: /meetings
+  - text: helping out
+    url: /helpingout
   - text: mailing list
     url: https://groups.google.com/forum/#!forum/coderdojodc
   - text: faq
