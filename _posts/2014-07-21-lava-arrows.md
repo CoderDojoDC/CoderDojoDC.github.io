@@ -11,4 +11,4 @@ tags: []
 
 It wasn't easy, but once a few people got ScriptCraft installed at our
 July 20th meeting, they had lava arrows. Here's a screencast of their script.
-Thanks to @westgarja for the activity and Alexa for making the video!
+Thanks to @westgardja for the activity and Alexa for making the video!
