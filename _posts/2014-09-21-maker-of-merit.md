@@ -10,5 +10,4 @@ tags: [Maker Faire, Awards]
 
 <p>See you next Sunday at the Elks' Lodge in Rockville!</p>
 
-<div sytle="clear:both">&nbsp;</div>
-
+<p style="clear:both">&nbsp;</p>
