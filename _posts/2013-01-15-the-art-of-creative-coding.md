@@ -9,7 +9,7 @@ tags:
 - inspiring
 tumblr_url: http://coderdojodc.com/post/40597085224/the-art-of-creative-coding
 ---
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe src="//www.youtube.com/embed/eBV14-3LT-g" frameborder="0" allowfullscreen></iframe>
 </div>
 

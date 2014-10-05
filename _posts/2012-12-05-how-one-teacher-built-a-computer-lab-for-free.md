@@ -9,6 +9,6 @@ tumblr_url: http://coderdojodc.com/post/37415523739/how-one-teacher-built-a-comp
 ---
 Such an amazing story about a sixth grade teacher who, with minimal experience with computers, built his school a complete computer lab for free, using second-hand computers and Open Source software.
 
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe width="500" height="281" src="https://www.youtube.com/embed/nZ84GcDGoMw?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 </div>

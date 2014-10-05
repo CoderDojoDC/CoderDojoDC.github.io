@@ -9,7 +9,7 @@ tags:
 - education
 tumblr_url: http://coderdojodc.com/post/40087276799/nerds-rock-check-out-this-inspiring-story-of-14
 ---
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe src="//www.youtube.com/embed/DBXZWB_dNsw" frameborder="0" allowfullscreen></iframe>
 </div>
 

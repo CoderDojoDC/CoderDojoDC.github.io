@@ -8,6 +8,6 @@ tags:
 - submission
 tumblr_url: http://coderdojodc.com/post/42655888459/avis-sliding-doors-in-minecraft
 ---
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe width="500" height="281" src="//www.youtube.com/embed/l0-H717u8yY" frameborder="0" allowfullscreen></iframe>
 </div>

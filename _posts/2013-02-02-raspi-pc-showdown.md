@@ -9,7 +9,7 @@ tags:
 tumblr_url: http://coderdojodc.com/post/42092009667/raspi-pc-showdown
 ---
 
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe src="//www.youtube.com/embed/04yl1TI-Eiw" frameborder="0" allowfullscreen></iframe>
 </div>
 

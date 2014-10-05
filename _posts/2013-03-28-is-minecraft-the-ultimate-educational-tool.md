@@ -7,7 +7,7 @@ tags:
 - video
 tumblr_url: http://coderdojodc.com/post/46497575965/is-minecraft-the-ultimate-educational-tool
 ---
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe src="https://www.youtube.com/embed/RI0BN5AWOe8?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 </div>
 

@@ -8,6 +8,6 @@ tags:
 - video
 tumblr_url: http://coderdojodc.com/post/45669034623/eben-upton-brings-pi-to-pycon
 ---
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe src="//www.youtube.com/embed/PAHBZImmXsI" frameborder="0" allowfullscreen></iframe>
 </div>

@@ -9,7 +9,7 @@ tags:
 tumblr_url: http://coderdojodc.com/post/41278850950/reading-writing-and-programming
 ---
 
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe src="//www.youtube.com/embed/42_30Rgf6F0" frameborder="0" allowfullscreen></iframe>
 </div>
 

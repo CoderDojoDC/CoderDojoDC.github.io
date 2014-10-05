@@ -7,7 +7,7 @@ tags:
 - video
 tumblr_url: http://coderdojodc.com/post/46586205182/one-rule-be-cool
 ---
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe src="//player.vimeo.com/video/62684914" width="500" height="281" frameborder="0" title="CoderDojo - one rule - Be Cool!" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 

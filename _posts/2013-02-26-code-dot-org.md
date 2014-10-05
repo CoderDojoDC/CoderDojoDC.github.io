@@ -9,7 +9,7 @@ tags:
 - inspiring
 tumblr_url: http://coderdojodc.com/post/44084005342/code-dot-org
 ---
-<div class="video-wrapper">
+<div class="youtube-wrapper">
 <iframe src="//www.youtube.com/embed/dU1xS07N-FA" frameborder="0" allowfullscreen></iframe>
 </div>
 

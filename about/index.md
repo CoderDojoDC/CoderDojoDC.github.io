@@ -4,8 +4,8 @@ layout: default
 ---
 ### The best way to learn more is to watch a video:
 
-<div class="video-wrapper">
-<iframe width="640" height="390" src="//www.youtube.com/embed/z_gcHGa8J1E" frameborder="0" allowfullscreen></iframe>
+<div class="youtube-wrapper">
+<iframe src="//www.youtube.com/embed/z_gcHGa8J1E" frameborder="0" allowfullscreen></iframe>
 </div>
 
 If you know a child who wants to learn how to code or if you’d be interested in
