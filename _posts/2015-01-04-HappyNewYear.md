@@ -4,7 +4,7 @@ title: Happy 2015!
 date: '2015-01-04T12:38:00-04:00'
 tags: Plans for 2015, Codestarter, Nao, Scratch, Minecraft, Interactive Fiction
 ---
-<div style="float:left; padding-left:20px">
+<div style="float:right; padding-left:40px; margin:20px">
 <pre>
  __  __                                        
 /\ \/\ \                                       
