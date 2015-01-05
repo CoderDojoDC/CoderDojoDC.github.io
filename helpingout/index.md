@@ -33,9 +33,12 @@ done with these devices. Your donation will get a lot of use.
 
 ## Sponsors
 
-We would like to thank our current sponsors:
+We would like to thank our sponsors:
 
 ![Elks Lodge](/assets/elkslodge.png) The
 [Elks](http://washington-rockville-elks.com/index.html) provide us with a large
 meeting space, wi-fi, and a location with plenty of parking.
+
+![Hillcrest Labs](/assets/hillcrest.png) Hillcrest Labs has provided meeting
+space for several of our meetings.
 
