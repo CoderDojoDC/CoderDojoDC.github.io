@@ -35,8 +35,11 @@ done with these devices. Your donation will get a lot of use.
 
 We would like to thank our sponsors:
 
+![Montgomery County Innovation Program](/assets/mcip.jpg) The Montgomery County
+Innovation Program provides meeting space at the
+[Thingstitute](http://thingstitute.com/) in Rockville, MD.
 ![Elks Lodge](/assets/elkslodge.png) The
-[Elks](http://washington-rockville-elks.com/index.html) provide us with a large
+[Elks](http://washington-rockville-elks.com/index.html) has provided us with a large
 meeting space, wi-fi, and a location with plenty of parking.
 
 ![Hillcrest Labs](/assets/hillcrest.png) Hillcrest Labs has provided meeting

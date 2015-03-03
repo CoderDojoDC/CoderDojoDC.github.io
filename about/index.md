@@ -51,5 +51,5 @@ If our meeting times and locations aren't convenient or you just want to attend
 more CoderDojo meetings, check out the following area dojos:
 
 * [CoderDojo NOVA](http://www.coderdojonova.co/) in Springfield/Alexandria
-* [DCCodes](http://dccodes.weebly.com/) in Tenleytown
+* [District CoderDojo](http://districtcoderdojo.weebly.com/) in Tenleytown
 * [FredxCoders](http://www.fredxcoders.com/) in Fredericksburg, VA
