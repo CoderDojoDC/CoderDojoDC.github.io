@@ -5,11 +5,9 @@ layout: default
 
 ## Helping out
 
-CoderDojoDC was founded in December 2012. We have run sessions that meet every
+CoderDojoDC was founded in December 2012. We run sessions that meet every
 other week thanks to the generosity of our volunteers and sponsors. This has
-allowed us to keep our Dojo free and open to all Washington, DC area youth. If
-you are interested in supporting what we do, please email us at
-dc@coderdojo.com.
+allowed us to keep our Dojo free and open to all Washington, DC area youth.
 
 ## Mentoring
 
@@ -18,14 +16,12 @@ children have worked on everything from Scratch, HTML, Minecraft
 modding, interactive fiction, to building hardware projects with Arduinos and
 Raspberry Pis and computer animation with Blender. We also encourage discovery
 of new topics in short presentations at the beginning of each meeting. As you
-might expect, mentoring this group is anything but dull. Please contact us first
-before you show up so that we can talk about how best you can help out.
+might expect, mentoring this group is anything but dull. Please contact us at
+dc@coderdojo.com before you show up so that we can talk about how best you can help out.
 
 ## Donations
 
-CoderDojoDC will always be free and open to all youth. We're very fortunate to
-have many volunteer mentors and parents willing to donate their time, equipment
-and money to make the group a success. We do incur costs to keep the group
+CoderDojoDC will always be free and open to all youth. We do incur costs to keep the group
 active and fund activities requiring hardware or software purchases. If you are
 in a position to help, please consider making a donation through our fiscal
 sponsor, Make a Difference Engine, Inc. You may donate via PayPal below.
@@ -42,7 +38,7 @@ width="1" height="1">
 </form>
 
 Please contact us at dc@coderdojo.com if you have any questions or would prefer
-to send a check.
+to mail a check.
 
 We are also in need of hardware donations of Arduinos, Raspberry Pis, Makey
 Makeys and the various parts needed to use them. If you have an Arduino
