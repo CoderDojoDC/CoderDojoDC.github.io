@@ -16,6 +16,8 @@ urls:
     url: https://groups.google.com/forum/#!forum/coderdojodc
   - text: faq
     url: /faq
+  - text: showcase
+    url: /showcase
 # Commenting out resources for now since it never caught on. There's content
 # there, so if we make a new resources page, we might want to copy some of it
 # over.
