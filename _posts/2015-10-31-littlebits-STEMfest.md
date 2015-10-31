@@ -5,7 +5,7 @@ date: '2015-10-31T10:51:00Z'
 tags: [stemfestival, littlebits]
 ---
 
-<div style="float:left; padding-right:20px"><img src="/assets/stemfest_vertical.jpg" alt="Maryland STEM Festival Logo" /></div>
+<div style="float:left; padding-right:20px"><a href="http://marylandstemfestival.org"><img src="/assets/stemfest_vertical.jpg" alt="Maryland STEM Festival Logo" /></a></div>
 
 At our meeting on Sunday, November 8, 2015 (3-5 pm), Ginger Butcher from NASA Goddard Space Flight Center will be joining us to share her experiences working at NASA and the importance of programming and engineering in her career. She is also one of the inventors of the littleBits Space Kit and will lead a littleBits space activity for the group. She's bringing a lot of equipment, so you don't need to have your own littleBits kit to take part. 
 
