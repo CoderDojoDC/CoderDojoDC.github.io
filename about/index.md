@@ -2,6 +2,8 @@
 title: 'About'
 layout: default
 ---
+## About CoderDojo and CoderDojoDC
+
 ### The best way to learn more is to watch a video:
 
 <div class="youtube-wrapper">
@@ -17,7 +19,7 @@ Page](http://www.meetup.com/CoderDojoDC/) lists our meeting times and locations.
 Please RSVP yourself and your children to help us plan and avoid overcrowding
 our locations.
 
-## What to bring
+### What to bring
 
 Our meetings are free and open to all children. Children 12 and under must
 bring a parent, but we strongly encourage all parents to stay and help out. If
@@ -29,11 +31,11 @@ desire to share what you know and learn what you don't. If you're already
 working on a programming project, feel free to bring it too and present it at the
 end.
 
-## Software to install (optional)
+### Software to install (optional)
 
 If you are able to bring a laptop for your child to use during the meetings, it is helpful if you can install some of the free software we use for our activities in advance of the meeting.  Brief descriptions of our core technologies and links to installation pages are available on our [installation guide page](http://coderdojodc.com/installation.html).
 
-## What to expect
+### What to expect
 
 Our meetings are 2 hours long, and we follow a similar format for each one. We
 start with a full group presentation or activity and then break up into sections
@@ -47,7 +49,7 @@ come back together and everyone is encouraged to present their work to the
 group. This is one of the most fun and rewarding parts of the meeting, so don't
 leave early.
 
-## Other area CoderDojos
+### Other area CoderDojos
 
 If our meeting times and locations aren't convenient or you just want to attend
 more CoderDojo meetings, check out the following area dojos:
