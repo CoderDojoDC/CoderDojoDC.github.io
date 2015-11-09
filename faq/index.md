@@ -42,6 +42,10 @@ the email list.
 We usually meet every other weekend. See [our meetup.com
 site](http://www.meetup.com/CoderDojoDC/) for time, location, and RSVP.
 
+### What software should I install and where can I find it?
+
+Please see our [installation guide page](http://coderdojodc.com/installation.html) for links to download pages for the core technologies we use in our meetings.  If other software is required for a particular week's activity, that information will be posted on the Meetup announcement.
+
 ### Why do I have to register for each meeting?
 
 Most CoderDojo’s find there’s just to much turn-around from one meeting to the
