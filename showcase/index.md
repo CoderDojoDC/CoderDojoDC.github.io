@@ -11,4 +11,11 @@ Welcome to the CoderdojoDC showcase, a collection of projects our ninjas have co
 * [Warriors into the Wild](warriors-into-the-wild.html) (Twine)
 * Your project here!
 
+## Scratch Challenge Day!
+
+In preparation for our Scratch Challenge meeting on 05/22, we are posting some examples of the awesome things our members have built in Scratch.
+
+* [Squirrel's Lunch by Cat1234567](https://scratch.mit.edu/projects/99776635/)
+* [PartiBlu by Happyland440](https://scratch.mit.edu/projects/40742906/)
+
 
