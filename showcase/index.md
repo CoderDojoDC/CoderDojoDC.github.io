@@ -17,7 +17,7 @@ In preparation for our Scratch Challenge meeting on 05/22, we are posting some e
 * [Squirrel's Lunch by Cat1234567](https://scratch.mit.edu/projects/99776635/)
 * [PartiBlu by Happyland440](https://scratch.mit.edu/projects/40742906/)
 
-[Go to the project URL submission form](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8/edit).
+To submit your project, just [go to the project URL submission form](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8/edit) and paste in the URL for your Scratch project page (Scratch account required).
 
 
 
