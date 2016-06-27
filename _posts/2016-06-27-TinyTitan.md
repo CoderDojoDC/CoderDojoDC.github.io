@@ -5,9 +5,9 @@ date: '2016-06-27'
 tags: [Raspberry Pi, Tiny Titan]
 ---
 
-Join us as we learn about programming the fastest computers in the world 
-from experts at the Department of Energy! This event is appropriate for all 
-ages from elementary to high school. Please 
+Join us on Sunday, July 3, 2016 at the Thingstitute as we learn about programming 
+the fastest computers in the world from experts at the Department of Energy! This 
+event is appropriate for all ages from elementary to high school. Please 
 [RSVP](http://www.meetup.com/CoderDojoDC/events/231940644/) so that we know 
 how many people to expect. 
 
