@@ -11,9 +11,9 @@ Welcome to the CoderdojoDC showcase, a collection of projects our ninjas have co
 * [Warriors into the Wild](warriors-into-the-wild.html) (Twine)
 * [Five Cities](5-cities.html) (Twine)
 
-## Scratch Challenge Day!
+## Scratch Projects (Including Challenge Day Projects)!
 
-Here are some of the Scratch projects produced in response to our first Scratch Challenge day! Come back often to try out more games and projects made by our members, and [send us your projects for posting](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8)!
+Here are some of the Scratch projects our members have made, including several produced in response to our first Scratch Challenge day! Come back often to try out more games and projects made by our members, and [send us your projects for posting](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8)!
 
 * [Squirrel's Lunch by Cat1234567](https://scratch.mit.edu/projects/99776635/)
 * [PartiBlu by Happyland440](https://scratch.mit.edu/projects/40742906/)
@@ -23,6 +23,7 @@ Here are some of the Scratch projects produced in response to our first Scratch 
 * [Banana Clikr by Riverboat](https://scratch.mit.edu/projects/110824738/)
 * [The Very Annoying Animation by Insanescratches](https://scratch.mit.edu/projects/110828360/)
 * [Scratch project -- Please share the project so others can access it!](https://scratch.mit.edu/projects/97191636/)
+* [Star Catch by Meganturtle](https://scratch.mit.edu/projects/110327650/)
 * [Bwinner](https://scratch.mit.edu/projects/115024969/)
 * [Dodging Game by Vicplayer](https://scratch.mit.edu/projects/115402995/)
 
