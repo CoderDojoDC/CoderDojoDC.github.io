@@ -22,7 +22,6 @@ Here are some of the Scratch projects our members have made, including several p
 * [Item Project v. 1.4.0 by AshTheNinja](https://scratch.mit.edu/projects/108719157/#player)
 * [Banana Clikr by Riverboat](https://scratch.mit.edu/projects/110824738/)
 * [The Very Annoying Animation by Insanescratches](https://scratch.mit.edu/projects/110828360/)
-* [Scratch project -- Please share the project so others can access it!](https://scratch.mit.edu/projects/97191636/)
 * [Star Catch by Meganturtle](https://scratch.mit.edu/projects/110327650/)
 * [Bwinner](https://scratch.mit.edu/projects/115024969/)
 * [Dodging Game by Vicplayer](https://scratch.mit.edu/projects/115402995/)
