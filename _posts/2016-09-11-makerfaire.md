@@ -5,7 +5,7 @@ date: '2016-09-11'
 tags: [Maker Faire, Binary]
 ---
 
-<img src="../assets/makerfaire_square.png" alt="maker faire logo" width="100" />
+<div style="float:left; padding-right:20px"><a href="http://www.makerfairesilverspring.com"><img src="/assets/makerfaire_square.png" alt="Silver Spring Maker Faire Logo" /></a></div>
 
 Join us Sept. 25 from 12-5 pm at Veterans Place in Silver Spring for the 2016 Silver Spring Maker Faire! As we did in 2014, CoderDojoDC will have a booth at this year's faire, where we will talk about our club and teach visitors how to write their name in binary unicode.
 
