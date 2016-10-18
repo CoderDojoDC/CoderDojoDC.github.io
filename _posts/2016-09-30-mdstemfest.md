@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 'Maryland STEM Festival: Game Development with Rick Kelly, creator of Heroes Guard, Sunday 11/06'
-date: '2016-09-30'
+date: '2016-10-18'
 tags: [Careers, Game development]
 ---
 <div style="float:right; padding-right:20px"><a href="http://marylandstemfestival.org"><img src="/assets/stemfest2016_horizontal.jpg" style="width: 350px" alt="MD STEMfest" /></a></div>
+
+To RSVP for this meeting, go to [our Meetup page](http://www.meetup.com/CoderDojoDC/events/234064049/).
 
 As part of the [2nd Maryland STEM Festival](http://marylandstemfestival.org/), join CoderDojoDC for a presentation by Rick Kelly, professional game designer and creator of Heroes Guard!
 
