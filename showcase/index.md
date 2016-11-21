@@ -27,7 +27,8 @@ Here are some of the Scratch projects our members have made, including several p
 * [Dodging Game by Vicplayer](https://scratch.mit.edu/projects/115402995/)
 * [Prison Escape DEMO by AshTheNinja](https://scratch.mit.edu/projects/116483539)
 * [Get the Food by Playhouse72](https://scratch.mit.edu/projects/116483945/)
-
+* [Small Maze - V1.4 by AshTheNinja](https://scratch.mit.edu/projects/131916541/)
+* [D.T.S by AshTheNinja](https://scratch.mit.edu/projects/112647819/)
 
 To submit your project, just [go to the project URL submission form](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8/edit) and paste in the URL for your Scratch project page (Scratch account required).
 
