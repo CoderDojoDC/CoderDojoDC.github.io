@@ -31,6 +31,8 @@ Here are some of the Scratch projects our members have made, including several p
 * [D.T.S by AshTheNinja](https://scratch.mit.edu/projects/112647819/)
 * [Hide and Seek by Mongoose34](https://scratch.mit.edu/projects/134222235/)
 * [How to Run a Marathon by Mongoose34](https://scratch.mit.edu/projects/129297509/)
+* [Funny Meme by Mongoose34](https://scratch.mit.edu/projects/137342902/)
+* [Take Care of a Pet by Mongoose34](https://scratch.mit.edu/projects/137015508/)
 
 To submit your project, just [go to the project URL submission form](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8/edit) and paste in the URL for your Scratch project page (Scratch account required).
 
