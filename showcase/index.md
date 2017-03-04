@@ -10,6 +10,7 @@ Welcome to the CoderdojoDC showcase, a collection of projects our ninjas have co
 * [Fairytale Mix-Up](fairytale-mix-up.html) (Twine)
 * [Warriors into the Wild](warriors-into-the-wild.html) (Twine)
 * [Five Cities](5-cities.html) (Twine)
+* [Death Eater Survival](death-eater-survival.html) (Twine)
 
 ## Scratch Projects (Including Challenge Day Projects)!
 
