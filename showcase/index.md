@@ -11,6 +11,7 @@ Welcome to the CoderdojoDC showcase, a collection of projects our ninjas have co
 * [Warriors into the Wild](warriors-into-the-wild.html) (Twine)
 * [Five Cities](5-cities.html) (Twine)
 * [Death Eater Survival](death-eater-survival.html) (Twine)
+* [Random Derpiness](random-derpiness.html) (Twine orange belt project)
 
 ## Scratch Projects (Including Challenge Day Projects)!
 
