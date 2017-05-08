@@ -38,6 +38,7 @@ Here are some of the Scratch projects our members have made, including several p
 * [Narwhals! Narwhals! by Mongoose34](https://scratch.mit.edu/projects/137863295/)
 * [Walking Cat Animation by Mongoose34](https://scratch.mit.edu/projects/137904115/)
 * [Waterfall by Meganturtle](https://scratch.mit.edu/projects/142459508/)
+* [Randomness by Insanescratches](https://scratch.mit.edu/projects/155909806/)
 
 To submit your project, just [go to the project URL submission form](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8/edit) and paste in the URL for your Scratch project page (Scratch account required).
 
