@@ -39,6 +39,9 @@ Here are some of the Scratch projects our members have made, including several p
 * [Walking Cat Animation by Mongoose34](https://scratch.mit.edu/projects/137904115/)
 * [Waterfall by Meganturtle](https://scratch.mit.edu/projects/142459508/)
 * [Randomness by Insanescratches](https://scratch.mit.edu/projects/155909806/)
+* [The Random Radio Station by Insanescratches](https://scratch.mit.edu/projects/164543113/)
+* [Derp Attack by Insanescratches](https://scratch.mit.edu/projects/163873287/)
+* [Randomness #2 by Insanescratches](https://scratch.mit.edu/projects/159394388/)
 
 To submit your project, just [go to the project URL submission form](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8/edit) and paste in the URL for your Scratch project page (Scratch account required).
 
