@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: 'CoderDojoDC'
 layout: default
 ---
 ## About CoderDojo and CoderDojoDC
