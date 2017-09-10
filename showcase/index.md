@@ -42,6 +42,7 @@ Here are some of the Scratch projects our members have made, including several p
 * [The Random Radio Station by Insanescratches](https://scratch.mit.edu/projects/164543113/)
 * [Derp Attack by Insanescratches](https://scratch.mit.edu/projects/163873287/)
 * [Randomness #2 by Insanescratches](https://scratch.mit.edu/projects/159394388/)
+* [Jackpot ~Original Meme~ by Mongoose34](https://scratch.mit.edu/projects/172719524/)
 
 To submit your project, just [go to the project URL submission form](https://docs.google.com/forms/d/1odFlpp2I2ji0y8eLarQy45jArXUryda6klWIPzYxUg8/edit) and paste in the URL for your Scratch project page (Scratch account required).
 
