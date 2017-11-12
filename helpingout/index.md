@@ -10,7 +10,7 @@ We do this as volunteers and charge nothing for participation.
 
 ## Donations
 
-Like any organization we have expenses like insurance, maintaining our Meetup website and technology that ages or breaks and needs replacing. If you're in a position to help, please consider making a tax-deductible donation to our 501(c)3 fiscal sponsor, Make a Difference Engine, Inc. You can donate via PayPal below or contact us at dc@coderdojo.com if you'd prefer to send a check.
+Like any organization we have expenses like insurance, maintaining our Meetup website and technology that ages or breaks and needs replacing. If you're in a position to help, please consider making a tax-deductible donation to our 501(c)3 fiscal sponsor, Make a Difference Engine (EIN: 47-2723442). You can donate via PayPal below or contact us at dc@coderdojo.com if you'd prefer to send a check.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
