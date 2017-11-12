@@ -2,66 +2,35 @@
 title: 'Helping out'
 layout: default
 ---
+# Helping out
 
-## Helping out
+For more than four years now, our Coderdojo has been meeting regularly, helping kids learn and teach each other new skills in computer programming. In that time we have accomplished so much, and seen the kids who come to our bi-monthly meetups express their creativity and ingenuity in countless show-and-tell demonstrations of Scratch projects, Twine games, Raspberry Pi programs and so much more. Our doors are open to any child who wants to enter and we’ve helped provide laptops, Raspberry Pi’s and other technology to kids who otherwise wouldn’t have had access to them.
 
-CoderDojoDC was founded in December 2012. We run sessions that meet every
-other week thanks to the generosity of our volunteers and sponsors. This has
-allowed us to keep our Dojo free and open to all Washington, DC area youth.
-
-## Mentoring
-
-We are always looking for enthusiastic mentors to help out at our meetings. The
-children have worked on everything from Scratch, HTML, Minecraft
-modding, interactive fiction, to building hardware projects with Arduinos and
-Raspberry Pis and computer animation with Blender. We also encourage discovery
-of new topics in short presentations at the beginning of each meeting. As you
-might expect, mentoring this group is anything but dull. Please contact us at
-dc@coderdojo.com before you show up so that we can talk about how best you can help out.
+We do this as volunteers and charge nothing for participation.
 
 ## Donations
 
-CoderDojoDC will always be free and open to all youth. We do incur costs to keep the group
-active and fund activities requiring hardware or software purchases. If you are
-in a position to help, please consider making a donation through our fiscal
-sponsor, Make a Difference Engine, Inc. You may donate via PayPal below.
+Like any organization we have expenses like insurance, maintaining our Meetup website and technology that ages or breaks and needs replacing. If you're in a position to help, please consider making a tax-deductible donation to our 501(c)3 fiscal sponsor, Make a Difference Engine, Inc. You can donate via PayPal below or contact us at dc@coderdojo.com if you'd prefer to send a check.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
-target="_top">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7CUKQGUA5PL24">
-<input type="image"
-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0"
-name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-width="1" height="1">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Please contact us at dc@coderdojo.com if you have any questions or would prefer
-to mail a check.
+We also can use hardware donations. If you have HDMI/DVI monitors, Raspberry Pi 3 hardware (and peripherals), and kid-appropriate programming books, we may be able to make use of them. Please email us at dc@coderdojo.com or talk to us at one of our meetings about this.
 
-We are also in need of hardware donations of Arduinos, Raspberry Pis, Makey
-Makeys and the various parts needed to use them. If you have an Arduino
-or other hardware sitting in your basement collecting dust, please consider
-donating it. As a free computer club, we will never require children to purchase
-anything to come to our meetings, and we currently do not have nearly enough
-hardware to properly teach the whole group about all of the awesome things that can be
-done with these devices. Your hardware donation will get used. Email us if
-dropping off a hardware donation at one of our meetings is inconvenient.
+## Mentoring and Presenting
+
+We're always looking for enthusiastic mentors and speakers for our meetings. If you or someone you know uses computer programming in their jobs or hobbies and would like to share their work or experiences with the group, please let us know. We've had presentations ranging from creating writing and music generation to robotics and quantum computing. You never know what topic will resonate with a student and pique their interest in computer programming.
 
 ## Sponsors
 
-We would like to thank our corporate and government sponsors:
+We would like to thank our sponsors:
 
-![Montgomery County Innovation Program](/assets/mcip.jpg) The Montgomery County
-Innovation Program provides meeting space at the
+![Rockville Science Center](/assets/rsc.png) The Rockville Science Center provides meeting space for us at their [Studio i Makerspace](http://rockvillesciencecenter.org/programs/studio-i-makerspace/).
 
-[Thingstitute](http://thingstitute.com/) in Rockville, MD.
-
-![Elks Lodge](/assets/elkslodge.png) The
-[Elks](http://washington-rockville-elks.com/index.html) has provided us with a large
-meeting space, wi-fi, and a location with plenty of parking.
-
-![Hillcrest Labs](/assets/hillcrest.png) Hillcrest Labs has provided meeting
-space for several of our meetings.
-
+![Montgomery County Innovation Program](/assets/mcip.png) The Montgomery County
+Innovation Program provided meeting space for over two years at the
+[Thingstitute](http://thingstitute.com/).
