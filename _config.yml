@@ -2,7 +2,7 @@ name: CoderDojoDC
 markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
-gems:
+plugins:
   - jekyll-redirect-from
 github: https://github.com/CoderDojoDC
 about: The Washington, D.C. area's free and open programming club for kids, 7-17.
