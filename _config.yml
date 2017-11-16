@@ -5,23 +5,18 @@ redcarpet:
 plugins:
   - jekyll-redirect-from
 github: https://github.com/CoderDojoDC
-about: The Washington, D.C. area's free and open programming club for kids, 7-17.
+about: A Washington, D.C. area free and open programming club for kids, 7-17.
 google_analytics_id: UA-16709386-3
 urls:
-  - text: about
-    url: /about
-  - text: helping out
-    url: /helpingout
-  - text: mailing list
-    url: https://groups.google.com/forum/#!forum/coderdojodc
+  - text: join us
+    url: https://meetup.com/coderdojodc
   - text: faq
     url: /faq
+  - text: mentor
+    url: /mentor
+  - text: donate
+    url: /donate
   - text: showcase
     url: /showcase
-# Commenting out resources for now since it never caught on. There's content
-# there, so if we make a new resources page, we might want to copy some of it
-# over.
-#  - text: resources
-#    url: https://groups.diigo.com/group/CoderDojo?view=popular
   - text: archive
     url: /archive
