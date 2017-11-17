@@ -3,6 +3,8 @@ title: 'About'
 layout: default
 ---
 # About
+Our meetings are free and open to all children. Children 12 and under must
+bring a parent/grown-up, but we strongly encourage all parents to stay and help out.
 
 The best way to learn more is to watch a video:
 
@@ -21,10 +23,7 @@ our locations.
 
 ## What to bring
 
-Our meetings are free and open to all children. Children 12 and under must
-bring a parent, but we strongly encourage all parents to stay and help out. If
-you have a laptop, please bring it, but it is not required. In the past we have worked with [Codestarter](https://codestarter.org/) to help every child who's
-interested in programming to have their own computer, but unfortunately the Codestarter program has ended. We are currently investigating some options to create a similar program that would allow us to facilitate getting good starter laptops for programming into the hands of kids who need them.  If you are able to help us in this effort (for example, by helping us to spec a good, inexpensive laptop, or to develop an installation image including Linux and some free software useful for programming -- along the lines of [Codestarter's Chromebook installer](https://github.com/codestarterorg/ubuntu-chromebook-installer)), please get in touch!
+If you have a laptop, please bring it, but it is not required. In the past we have worked with [Codestarter](https://codestarter.org/) to help every child who's interested in programming to have their own computer, but unfortunately the Codestarter program has ended. We are currently investigating some options to create a similar program that would allow us to facilitate getting good starter laptops for programming into the hands of kids who need them.  If you are able to help us in this effort (for example, by helping us to spec a good, inexpensive laptop, or to develop an installation image including Linux and some free software useful for programming -- along the lines of [Codestarter's Chromebook installer](https://github.com/codestarterorg/ubuntu-chromebook-installer)), please get in touch!
 
 The most important things to bring, though, are your creativity, energy and a
 desire to share what you know and learn what you don't. If you're already
@@ -37,17 +36,13 @@ If you are able to bring a laptop for your child to use during the meetings, it 
 
 ## What to expect
 
-Our meetings are 2 hours long, and we follow a similar format for each one. We
-start with a full group presentation or activity and then break up into sections
-based on programming interests. (Don't know where to go? Don't worry, we'll help
-if it's your first time.) If the full group presentation involves an activity
+Our 2 hour meetings typically start with a full group presentation or activity and then break up into sections
+based on programming interests. Volunteer mentors are available to provide help, but often the kids will help and inspire each other.  (Don't know where to go? Don't worry, we'll help
+if it's your first time.) If the full group presentation involves a guided activity,
 some children will continue working on that activity for the next hour. Other
 children will continue work on Scratch, Arduino, HTML or other projects of their
-own or by the recommendation of mentors. Children are welcome to look at the
-projects being worked on and also encourage to help out others.  At the end, we
-come back together and everyone is encouraged to present their work to the
-group. This is one of the most fun and rewarding parts of the meeting, so don't
-leave early.
+own or by the recommendation of mentors. We set aside the last half hour for the kids to share a project - this is one of the most fun and rewarding parts of the meeting, so don't
+leave early! Find examples of our members' projects on our [showcase page](http://coderdojodc.com/showcase/).
 
 ## Sponsors
 
