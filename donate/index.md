@@ -21,7 +21,8 @@ Like any organization we have expenses like insurance, maintaining our Meetup
 website and technology that ages or breaks and needs replacing. If you're in a
 position to help, please consider making a tax-deductible donation to our
 501(c)3 fiscal sponsor, Make a Difference Engine (EIN: 47-2723442). You can
-donate via PayPal donate button below or contact us at dc@coderdojo.com if you'd prefer to send a check.
+donate via PayPal donate button below or contact us at dc@coderdojo.com if
+you'd prefer to send a check.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -29,6 +30,22 @@ donate via PayPal donate button below or contact us at dc@coderdojo.com if you'd
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+## Amazon Smile
+
+If you shop on Amazon, you can have Amazon automatically donate 0.5%
+of what you buy to support CoderDojo DC. To do this, go to
+[smile.amazon.com](https://smile.amazon.com) and select Make a Difference
+Engine Inc as your charity. Our charity shows up like this on the charity
+search page:
+
+![](../assets/find-made-smile.png)
+
+For donations to work, be sure to always go to
+[smile.amazon.com](https://smile.amazon.com) instead of just amazon.com and
+check that Make a Difference Engine is your charity:
+
+![](../assets/smile-support.png)
 
 ## Hardware donations
 
