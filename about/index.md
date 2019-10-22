@@ -2,9 +2,11 @@
 title: 'About'
 layout: default
 ---
-## About CoderDojo and CoderDojoDC
+# About
+Our meetings are free and open to all children. Children 12 and under must
+bring a parent/grown-up, but we strongly encourage all parents to stay and help out.
 
-### The best way to learn more is to watch a video:
+The best way to learn more is to watch a video:
 
 <div class="youtube-wrapper">
 <iframe src="//www.youtube.com/embed/z_gcHGa8J1E" frameborder="0" allowfullscreen></iframe>
@@ -14,12 +16,12 @@ If you know a child who wants to learn how to code or if you’d be interested i
 helping out, join our [mailing list](https://groups.google.com/forum/?fromgroups#!forum/coderdojodc")
 and follow us at [@CoderDojoDC](https://twitter.com/CoderDojoDC).
 
-We meet on Sunday afternoons, usually every two weeks. The [Rockville Science Center 
-Makerspace's Meetup Page](https://www.meetup.com/Rockville-RSC-Makerspace/) 
-lists each of our meetings among their events, so that is the best place to find up to date meeting information. 
-Please RSVP yourself and your children to help us plan and ensure there is enough space.
+We usually meet every other Sunday afternoon. The [CoderDojoDC Meetup
+Page](http://www.meetup.com/CoderDojoDC/) lists our meeting times and locations.
+Please RSVP yourself and your children to help us plan and avoid overcrowding
+our locations.
 
-### What to bring
+## What to bring
 
 Our meetings are free and open to all children. Children 12 and under must
 bring a parent, but we strongly encourage all parents to stay and help out. If
@@ -31,25 +33,25 @@ desire to share what you know and learn what you don't. If you're already
 working on a programming project, feel free to bring it too and present it at the
 end.
 
-### Software to install (optional)
+## Software to install (optional)
 
-Most of our participants work on [Scratch](https://scratch.mit.edu), [Twine](twinery.org), or [Python](python.org). If you are able to bring a laptop for your child to use during the meetings, it is helpful if you can install some of the free software we use for our activities in advance of the meeting.  Brief descriptions of our core technologies and links to installation pages are available on our [installation guide page](http://coderdojodc.com/installation.html).
+Most of our participants work on [Scratch](https://scratch.mit.edu), [Twine](https://twinery.org), or [Python](https://python.org). If you are able to bring a laptop for your child to use during the meetings, it is helpful if you can install some of the free software we use for our activities in advance of the meeting.  Brief descriptions of our core technologies and links to installation pages are available on our [installation guide page](http://coderdojodc.com/installation.html).
 
-### What to expect
+## What to expect
 
-Our meetings are 2 hours long, and we follow a similar format for each one. We
-start with a full group presentation or activity and then break up into sections
-based on programming interests. (Don't know where to go? Don't worry, we'll help
-if it's your first time.) If the full group presentation involves an activity
-some children will continue working on that activity for the next hour. Other
-children will continue work on Scratch, Arduino, HTML or other projects of their
-own or by the recommendation of mentors. Children are welcome to look at the
-projects being worked on and also encourage to help out others.  At the end, we
-come back together and everyone is encouraged to present their work to the
-group. This is one of the most fun and rewarding parts of the meeting, so don't
-leave early.
+Our 2 hour meetings typically start with a full group presentation or activity and then break up into sections based on programming interests. Volunteer mentors are available to provide help, but often the kids will help and inspire each other.  (Don't know where to go? Don't worry, we'll help if it's your first time.) If the full group presentation involves a guided activity, some children will continue working on that activity for the next hour. Other children will continue work on Scratch, Arduino, HTML or other projects of their own or by the recommendation of mentors. We set aside the last half hour for the kids to share a project - this is one of the most fun and rewarding parts of the meeting, so don't leave early! Find examples of our members' projects on our [showcase page](http://coderdojodc.com/showcase/).
 
-### Other area CoderDojos
+## Sponsors
+
+We would like to thank our sponsors:
+
+![Rockville Science Center](/assets/rsc.png) The Rockville Science Center provides meeting space for us at their [Studio i Makerspace](http://rockvillesciencecenter.org/programs/studio-i-makerspace/).
+
+![Montgomery County Innovation Program](/assets/mcip.png) The Montgomery County
+Innovation Program provided meeting space for over two years at the
+[Thingstitute](http://thingstitute.com/).
+
+## Other area CoderDojos
 
 If our meeting times and locations aren't convenient or you just want to attend
 more CoderDojo meetings, check out the following area dojos:
