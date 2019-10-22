@@ -35,7 +35,7 @@ end.
 
 ## Software to install (optional)
 
-Most of our participants work on [Scratch](https://scratch.mit.edu), [Twine](twinery.org), or [Python](python.org). If you are able to bring a laptop for your child to use during the meetings, it is helpful if you can install some of the free software we use for our activities in advance of the meeting.  Brief descriptions of our core technologies and links to installation pages are available on our [installation guide page](http://coderdojodc.com/installation.html).
+Most of our participants work on [Scratch](https://scratch.mit.edu), [Twine](https://twinery.org), or [Python](https://python.org). If you are able to bring a laptop for your child to use during the meetings, it is helpful if you can install some of the free software we use for our activities in advance of the meeting.  Brief descriptions of our core technologies and links to installation pages are available on our [installation guide page](http://coderdojodc.com/installation.html).
 
 ## What to expect
 
