@@ -14,17 +14,17 @@ If you know a child who wants to learn how to code or if you’d be interested i
 helping out, join our [mailing list](https://groups.google.com/forum/?fromgroups#!forum/coderdojodc")
 and follow us at [@CoderDojoDC](https://twitter.com/CoderDojoDC).
 
-We usually meet every other Sunday afternoon. The [CoderDojoDC Meetup
-Page](http://www.meetup.com/CoderDojoDC/) lists our meeting times and locations.
-Please RSVP yourself and your children to help us plan and avoid overcrowding
-our locations.
+We meet on Sunday afternoons, usually every two weeks. The [Rockville Science Center 
+Makerspace's Meetup Page](https://www.meetup.com/Rockville-RSC-Makerspace/) 
+lists each of our meetings among their events, so that is the best place to find up to date meeting information. 
+Please RSVP yourself and your children to help us plan and ensure there is enough space.
 
 ### What to bring
 
 Our meetings are free and open to all children. Children 12 and under must
 bring a parent, but we strongly encourage all parents to stay and help out. If
-you have a laptop, please bring it, but it is not required. In the past we have worked with [Codestarter](https://codestarter.org/) to help every child who's
-interested in programming to have their own computer, but unfortunately the Codestarter program has ended. We are currently investigating some options to create a similar program that would allow us to facilitate getting good starter laptops for programming into the hands of kids who need them.  If you are able to help us in this effort (for example, by helping us to spec a good, inexpensive laptop, or to develop an installation image including Linux and some free software useful for programming -- along the lines of [Codestarter's Chromebook installer](https://github.com/codestarterorg/ubuntu-chromebook-installer)), please get in touch!
+you have a laptop, please bring it, but it is not required. We have Raspberry 
+Pi workstations for participants who did not bring a laptop.
 
 The most important things to bring, though, are your creativity, energy and a
 desire to share what you know and learn what you don't. If you're already
@@ -33,7 +33,7 @@ end.
 
 ### Software to install (optional)
 
-If you are able to bring a laptop for your child to use during the meetings, it is helpful if you can install some of the free software we use for our activities in advance of the meeting.  Brief descriptions of our core technologies and links to installation pages are available on our [installation guide page](http://coderdojodc.com/installation.html).
+Most of our participants work on [Scratch](https://scratch.mit.edu), [Twine](twinery.org), or [Python](python.org). If you are able to bring a laptop for your child to use during the meetings, it is helpful if you can install some of the free software we use for our activities in advance of the meeting.  Brief descriptions of our core technologies and links to installation pages are available on our [installation guide page](http://coderdojodc.com/installation.html).
 
 ### What to expect
 
